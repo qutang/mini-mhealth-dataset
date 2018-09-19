@@ -1,0 +1,1 @@
+1. Non dominant wrist sensor is malfunctioning. Y axis is always -8.

@@ -1,0 +1,1566 @@
+label,posture,four_class,activity_group,indoor_outdoor,activity,hand_gesture
+still,unkown,sedentary,sedentary,unkown,unkown,still
+jumping jacks,upright,others,others,unkown,jumping jacks,jumping jacks
+sitting,sitting,sedentary,sedentary,unkown,sitting still,free
+sitting-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+reclining,sitting,unkown,unkown,unkown,reclining,free
+reclining-telling story,sitting,unkown,unkown,unkown,reclining and talking,talking
+standing,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-telling story,upright,sedentary,sedentary,unkown,standing and talking,talking
+arms on desk-standing,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+arms on desk-standing-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+down-elevator-standing,upright,sedentary,sedentary,indoor,standing and elevator down,free
+elevator-walking,upright,ambulation,ambulation,indoor,self-paced walking and elevator,free
+telling story-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking,talking
+standing-stop light-telling story,upright,sedentary,sedentary,outdoor,standing and talking,talking
+stop light-telling story-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+outdoor-standing,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+mbta-outdoors-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+down-mbta-stairs-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+mbta-standing,upright,sedentary,sedentary,indoor,standing naturally,free
+mbta-outdoors-standing,upright,sedentary,sedentary,indoor,standing naturally,free
+outdoors-standing,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-telling story-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+biking,sitting,cycling,cycling,unkown,biking,biking
+biking-outdoors,sitting,cycling,cycling,outdoor,biking outdoor,biking
+outdoors-texting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+vending machine-walking,upright,ambulation,ambulation,unkown,self-paced walking and using vending machine,using vending machine
+standing-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+frisbee,upright,others,others,unkown,frisbee,frisbee
+stairs-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+phone talking-stairs-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking and using phone,holding cellphone
+drink-standing,upright,sedentary,sedentary,unkown,standing naturally,carrying a drink
+bag-standing,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-stairs-standing,upright,ambulation,ambulation,indoor,standing and escalator with bag,free
+bag-down-stairs-standing,upright,ambulation,ambulation,indoor,walking down stairs and standing with bag,free
+bag-down-stairs-walking,upright,ambulation,ambulation,indoor,walking down stairs with bag,free
+bag-outdoors-walking,upright,ambulation,ambulation,outdoor,self-paced walking with bag,free
+escalator-standing-up,upright,sedentary,sedentary,indoor,standing and escalator up,free
+bag-escalator-standing-up,upright,sedentary,sedentary,indoor,standing and escalator up with bag,free
+bag-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+down-stairs-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+bag-outdoors-telling story-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking with bag,talking
+bag-outdoors-telling story,unkown,unkown,unkown,outdoor,talking with bag,talking
+elevator-standing-up,upright,sedentary,sedentary,indoor,standing and elevator up,free
+bag-elevator-standing-up,upright,sedentary,sedentary,indoor,standing and elevator up with bag,free
+shelf unload-standing,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-standing,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+lying,lying,sedentary,sleep,indoor,unkown,still
+sitting-telling story,sitting,sedentary,sedentary,unkown,sitting and talking,talking
+arms on desk-sitting-telling story,sitting,sedentary,sedentary,indoor,sitting and talking with arms on desk,arms on desk
+reclining-web browsing,sitting,unkown,unkown,unkown,reclining and web browsing,free
+arms on desk-reclining-web browsing,sitting,unkown,unkown,indoor,reclining and web browsing with arms on desk,arms on desk
+biking-stationary,sitting,cycling,cycling,indoor,stationary biking,biking
+treadmill,upright,unkown,unkown,indoor,unkown,unkown
+treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+arms on desk-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking with arms on desk,arms on desk
+1 mph-arms on desk-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+2 mph-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+2 mph-arms on desk-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3.5 mph-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-texting-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting,using phone
+dominant hand-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+3 mph-dominant hand-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-bag-dominant hand-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+jog/running,upright,ambulation,ambulation,unkown,running,free
+5.5 mph 5%grade-jog/running-treadmill,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+3 mph-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-phone talking-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-carrying drinking-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+3 mph-carrying drinking-dominant hand-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+3 mph-telling story-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking,talking
+laundry-standing,upright,sedentary,sedentary,unkown,standing naturally,laundry
+standing-sweeping,upright,sedentary,sedentary,indoor,standing and sweeping,sweeping
+orientationtest,unkown,unkown,unkown,unkown,unkown,unkown
+lower body movement-orientationtest,unkown,unkown,unkown,unkown,unkown,unkown
+sitting-supported,sitting,sedentary,sedentary,unkown,sitting still,free
+dominant hand-sitting,sitting,sedentary,sedentary,unkown,sitting still,free
+dominant hand-sitting-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+arms on desk-dominant hand-sitting-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+standing-telling story-upper body movement,upright,sedentary,sedentary,unkown,standing and talking,talking
+standing-supported,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-supported-typing,upright,sedentary,sedentary,indoor,standing and keyboard typing,keyboard typing
+standing-supported-typing-web browsing,upright,sedentary,sedentary,indoor,standing and keyboard typing and web browsing,keyboard typing
+elevator,upright,sedentary,sedentary,indoor,elevator,free
+elevator-standing,upright,sedentary,sedentary,indoor,standing and elevator,free
+down-elevator,upright,sedentary,sedentary,indoor,elevator down,free
+outdoors-standing-telling story,upright,sedentary,sedentary,outdoor,standing and talking,talking
+outdoors-standing-telling story-waiting,upright,sedentary,sedentary,outdoor,standing and talking,talking
+outdoors-standing-telling story-texting-waiting,upright,sedentary,sedentary,outdoor,standing and texting and talking,talking
+outdoors-telling story-waiting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+mbta,unkown,unkown,unkown,indoor,unkown,unkown
+mbta-telling story,unkown,unkown,unkown,indoor,talking,talking
+telling story,unkown,unkown,unkown,unkown,talking,talking
+texting-walking,upright,ambulation,ambulation,unkown,self-paced walking and texting,using phone
+outdoors-phone talking-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+escalator-telling story-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking,talking
+escalator-telling story,upright,unkown,unkown,indoor,escalator and talking,talking
+escalator-telling story-up,upright,unkown,unkown,indoor,escalator up and talking,talking
+stairs-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+down-stairs-telling story-walking,upright,ambulation,ambulation,indoor,walking down stairs and talking,talking
+bag-telling story-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking with bag,talking
+bag-stairs-telling story-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking with bag,talking
+bag-stairs-telling story-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking with bag,talking
+shelf reload-shelf unload-standing,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+lying-telling story,lying,sedentary,sleep,indoor,talking,still
+300 kpm/min-biking-stationary,sitting,cycling,cycling,indoor,biking outdoor and stationary biking,biking
+1 mph-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+1 mph-supported-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+3 mph-bag-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-jog/running-treadmill,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+5.5 mph 5%grade-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+sweeping,upright,others,others,indoor,sweeping,sweeping
+laundry,unkown,unkown,unkown,unkown,unkown,laundry
+unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+standing-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,free
+still-unlabelled,unkown,sedentary,sedentary,unkown,unkown,still
+jumping jacks-unlabelled,upright,others,others,unkown,jumping jacks,jumping jacks
+sitting-unlabelled,sitting,sedentary,sedentary,unkown,sitting still,free
+sitting-typing-unlabelled,sitting,sedentary,sedentary,indoor,sitting and keyboard typing,keyboard typing
+sitting-typing-unlabelled-web browsing,sitting,sedentary,sedentary,indoor,sitting and keyboard typing and web browsing,keyboard typing
+arms on desk-sitting-typing-unlabelled-web browsing,sitting,sedentary,sedentary,indoor,sitting and keyboard typing and web browsing with arms on desk,arms on desk
+sitting-unlabelled-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+arms on desk-sitting-unlabelled-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+reclining-sitting-unlabelled,sitting,sedentary,sedentary,unkown,sitting and reclining,free
+reclining-sitting-telling story-unlabelled,sitting,sedentary,sedentary,unkown,sitting and reclining and talking,talking
+standing-typing-unlabelled,upright,sedentary,sedentary,indoor,standing and keyboard typing,keyboard typing
+standing-typing-unlabelled-web browsing,upright,sedentary,sedentary,indoor,standing and keyboard typing and web browsing,keyboard typing
+arms on desk-standing-typing-unlabelled-web browsing,upright,sedentary,sedentary,indoor,standing and keyboard typing and web browsing with arms on desk,arms on desk
+standing-unlabelled-writing,upright,sedentary,sedentary,unkown,standing and writing,writing
+standing-telling story-unlabelled-writing,upright,sedentary,sedentary,unkown,standing and writing and talking,writing
+arms on desk-standing-telling story-unlabelled-writing,upright,sedentary,sedentary,indoor,standing and writing and talking with arms on desk,writing
+standing-telling story-unlabelled,upright,sedentary,sedentary,unkown,standing and talking,talking
+elevator-standing-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator,free
+down-elevator-standing-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator down,free
+unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+outdoors-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-telling story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+telling story-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking,talking
+escalator-telling story-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking,talking
+escalator-standing-telling story-unlabelled,upright,sedentary,sedentary,indoor,standing and escalator and talking,talking
+escalator-standing-telling story-unlabelled-up,upright,sedentary,sedentary,indoor,standing and escalator up and talking,talking
+stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+down-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+stairs-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+unlabelled-up-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+stairs-standing-unlabelled-up,upright,ambulation,ambulation,indoor,standing and escalator,free
+mbta-standing-unlabelled,upright,sedentary,sedentary,indoor,standing naturally,free
+standing-stop light-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+standing-stop light-unlabelled-waiting,upright,sedentary,sedentary,outdoor,standing naturally,free
+mbta-unlabelled,unkown,unkown,unkown,indoor,unkown,unkown
+dominant hand-mbta-standing-unlabelled,upright,sedentary,sedentary,indoor,standing naturally,free
+dominant hand-mbta-standing-telling story-unlabelled,upright,sedentary,sedentary,indoor,standing and talking,talking
+stairs-telling story-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking,talking
+stairs-telling story-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking,talking
+down-stairs-telling story-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs and talking,talking
+outdoors-standing-telling story-unlabelled,upright,sedentary,sedentary,outdoor,standing and talking,talking
+outdoors-standing-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-standing-texting-unlabelled,upright,sedentary,sedentary,outdoor,standing and texting,using phone
+outdoors-standing-telling story-texting-unlabelled,upright,sedentary,sedentary,outdoor,standing and texting and talking,talking
+elevator-standing-telling story-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator and talking,talking
+elevator-standing-telling story-unlabelled-up,upright,sedentary,sedentary,indoor,standing and elevator up and talking,talking
+standing-unlabelled-upper body movement,upright,sedentary,sedentary,unkown,standing naturally,free
+shelf unload-standing-unlabelled-upper body movement,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-standing-unlabelled-upper body movement,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+texting-unlabelled,unkown,sedentary,sedentary,unkown,texting,using phone
+elevator-unlabelled,upright,sedentary,sedentary,indoor,elevator,free
+biking-unlabelled,sitting,cycling,cycling,unkown,biking,biking
+biking-outdoors-unlabelled,sitting,cycling,cycling,outdoor,biking outdoor,biking
+frisbee-unlabelled,upright,others,others,unkown,frisbee,frisbee
+frisbee-outdoors-unlabelled,upright,others,others,outdoor,frisbee,frisbee
+city-frisbee-jog/running-unlabelled,upright,ambulation,ambulation,outdoor,running and frisbee,frisbee
+city-frisbee-other-unlabelled,upright,others,others,outdoor,frisbee,frisbee
+standing-unlabelled-upper body movement-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+lower body movement-standing-unlabelled-upper body movement-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+phone talking-stairs-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking and using phone,holding cellphone
+lying-unlabelled,lying,sedentary,sleep,indoor,unkown,still
+lying-telling story-unlabelled,lying,sedentary,sleep,indoor,talking,still
+reclining-unlabelled,sitting,unkown,unkown,unkown,reclining,free
+reclining-texting-unlabelled,sitting,sedentary,sedentary,unkown,reclining and texting,using phone
+300 kpm/min-biking-unlabelled,sitting,cycling,cycling,outdoor,biking outdoor,biking
+1 mph-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+1 mph-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+1 mph-arms on desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms on desk-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph and talking with arms on desk,arms on desk
+treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+2 mph-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+2 mph-arms on desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3.5 mph-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-bag-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3.5 mph-bag-dominant hand-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+jog/running-unlabelled,upright,ambulation,ambulation,unkown,running,free
+jog/running-treadmill-unlabelled,upright,ambulation,ambulation,indoor,running,free
+5.5 mph 5%grade-jog/running-treadmill-unlabelled,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+3 mph-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-phone talking-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-dominant hand-phone talking-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+dominant hand-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+carrying drinking-dominant hand-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking carrying a drink,carrying a drink
+3 mph-carrying drinking-dominant hand-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking,talking
+laundry-standing-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,laundry
+laundry-standing-unlabelled-upper body movement,upright,sedentary,sedentary,unkown,standing naturally,laundry
+standing-sweeping-unlabelled,upright,sedentary,sedentary,indoor,standing and sweeping,sweeping
+standing-sweeping-unlabelled-upper body movement,upright,sedentary,sedentary,indoor,standing and sweeping,sweeping
+standing-sweeping-telling story-unlabelled-upper body movement,upright,sedentary,sedentary,indoor,standing and sweeping and talking,sweeping
+sitting-typing,sitting,sedentary,sedentary,indoor,sitting and keyboard typing,keyboard typing
+arms on desk-sitting-typing,sitting,sedentary,sedentary,indoor,sitting and keyboard typing with arms on desk,arms on desk
+arms on desk-sitting-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+standing-typing,upright,sedentary,sedentary,indoor,standing and keyboard typing,keyboard typing
+arms on desk-standing-typing,upright,sedentary,sedentary,indoor,standing and keyboard typing with arms on desk,arms on desk
+standing-writing,upright,sedentary,sedentary,unkown,standing and writing,writing
+standing-supported-telling story,upright,sedentary,sedentary,unkown,standing and talking,talking
+arms on desk-standing-supported-telling story,upright,sedentary,sedentary,indoor,standing and talking with arms on desk,arms on desk
+arms on desk-phone talking-standing-supported-telling story,upright,sedentary,sedentary,indoor,standing and talking and using phone with arms on desk,arms on desk
+waiting,unkown,sedentary,sedentary,unkown,unkown,unkown
+standing-waiting,upright,sedentary,sedentary,unkown,standing naturally,free
+stairs-standing-waiting,upright,ambulation,ambulation,indoor,standing and escalator,free
+stairs-standing-up-waiting,upright,ambulation,ambulation,indoor,standing and escalator,free
+stairs-up-waiting-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+mbta-standing-telling story,upright,sedentary,sedentary,indoor,standing and talking,talking
+stairs-telling story-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking,talking
+stairs-telling story-up,upright,ambulation,ambulation,indoor,escalator and talking,talking
+standing-upper body movement-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+escalator-standing,upright,sedentary,sedentary,indoor,standing and escalator,free
+escalator-standing-telling story,upright,sedentary,sedentary,indoor,standing and escalator and talking,talking
+frisbee-outdoors,upright,others,others,outdoor,frisbee,frisbee
+bag-dominant hand-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+bag-dominant hand-elevator-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and elevator up with bag,free
+elevator-up,upright,sedentary,sedentary,indoor,elevator up,free
+elevator-telling story-up,upright,sedentary,sedentary,indoor,elevator up and talking,talking
+reclining-texting,sitting,sedentary,sedentary,unkown,reclining and texting,using phone
+300 kpm/min-biking,sitting,cycling,cycling,outdoor,biking outdoor,biking
+3 mph-3mph-phone talking-telling story-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+carrying drinking-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking carrying a drink,carrying a drink
+carrying drinking-dominant hand-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking carrying a drink,carrying a drink
+telling story-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking,talking
+sweeping-walking,upright,ambulation,ambulation,indoor,self-paced walking and sweeping,sweeping
+arms on desk-sitting,sitting,sedentary,sedentary,indoor,sitting with arms on desk,arms on desk
+sitting-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing,free
+standing-web browsing,upright,sedentary,sedentary,unkown,standing and web browsing,free
+arms on desk-standing-telling story-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing and talking with arms on desk,arms on desk
+arms on desk-standing-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+down-stairs,upright,ambulation,ambulation,indoor,walking down stairs,free
+outdoors-standing-waiting,upright,sedentary,sedentary,outdoor,standing naturally,free
+mbta-stairs-standing-telling story,upright,ambulation,ambulation,indoor,standing and escalator and talking,talking
+down-mbta-stairs-standing-telling story,upright,ambulation,ambulation,indoor,walking down stairs and standing and talking,talking
+down-mbta-stairs-telling story,upright,ambulation,ambulation,indoor,walking down stairs and talking,talking
+down-mbta-stairs-telling story-walking,upright,ambulation,ambulation,indoor,walking down stairs and talking,talking
+mbta-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+mbta-stop light-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+mbta-stop light-telling story-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking,talking
+stop light-telling story,unkown,unkown,unkown,outdoor,talking,talking
+outdoors,unkown,unkown,unkown,outdoor,unkown,unkown
+upper body movement-vending machine-walking,upright,ambulation,ambulation,unkown,self-paced walking and using vending machine,using vending machine
+supported,unkown,unkown,unkown,unkown,unkown,unkown
+2 mph-supported,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+2 mph-outdoors-supported,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+2 mph-outdoors-sitting-supported,sitting,sedentary,sedentary,indoor,treadmill walking at 2 mph and sitting,free
+2 mph-jog/running-outdoors-supported,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+jog/running-outdoors-supported,upright,ambulation,ambulation,outdoor,running,free
+jog/running-supported,upright,ambulation,ambulation,unkown,running,free
+jog/running-supported-up,upright,ambulation,ambulation,unkown,running,free
+supported-up,unkown,unkown,unkown,unkown,unkown,unkown
+sitting-supported-up,sitting,sedentary,sedentary,unkown,sitting still,free
+outdoors-sitting-supported,sitting,sedentary,sedentary,outdoor,sitting still,free
+outdoors-sitting-supported-up,sitting,sedentary,sedentary,outdoor,sitting still,free
+outdoors-supported-up,unkown,unkown,unkown,outdoor,unkown,unkown
+jog/running-outdoors-supported-up,upright,ambulation,ambulation,outdoor,running,free
+outdoors-supported,unkown,unkown,unkown,outdoor,unkown,unkown
+outdoors-reclining-supported,sitting,unkown,unkown,outdoor,reclining,free
+outdoors-reclining-supported-up,sitting,unkown,unkown,outdoor,reclining,free
+orientationtest-outdoors-supported-up,unkown,unkown,unkown,outdoor,unkown,unkown
+orientationtest-outdoors-supported,unkown,unkown,unkown,outdoor,unkown,unkown
+300 kpm/min-orientationtest-outdoors-supported,unkown,unkown,unkown,outdoor,unkown,unkown
+2 mph-orientationtest-outdoors-supported,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+300 kpm/min-outdoors-supported,unkown,unkown,unkown,outdoor,unkown,unkown
+300 kpm/min-outdoors-sitting-supported,sitting,sedentary,sedentary,outdoor,sitting still,free
+2 mph-supported-vending machine,upright,unkown,unkown,indoor,treadmill walking at 2 mph and using vending machine,using vending machine
+supported-vending machine,upright,unkown,unkown,unkown,using vending machine,using vending machine
+supported-up-vending machine,upright,unkown,unkown,unkown,using vending machine,using vending machine
+supported-up-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+reclining-supported-up,sitting,unkown,unkown,unkown,reclining,free
+reclining-supported,sitting,unkown,unkown,unkown,reclining,free
+1 mph-reclining-supported,sitting,unkown,unkown,indoor,treadmill walking at 1 mph and reclining,free
+2 mph-supported-vending machine-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph and using vending machine,using vending machine
+2 mph-reclining-supported-vending machine,sitting,unkown,unkown,indoor,treadmill walking at 2 mph and reclining and using vending machine,using vending machine
+reclining-supported-vending machine,sitting,unkown,unkown,unkown,reclining and using vending machine,using vending machine
+300 kpm/min-reclining-supported-vending machine,sitting,unkown,unkown,unkown,reclining and using vending machine,using vending machine
+5.5 mph 5%grade-reclining-supported-vending machine,sitting,unkown,unkown,indoor,treadmill running at 5.5 mph and reclining and using vending machine,using vending machine
+5.5 mph 5%grade-supported-vending machine,upright,unkown,unkown,indoor,treadmill running at 5.5 mph and using vending machine,using vending machine
+5.5 mph 5%grade-supported,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+1 mph-supported,upright,unkown,unkown,indoor,treadmill walking at 1 mph,free
+300 kpm/min-supported,unkown,unkown,unkown,unkown,unkown,unkown
+5.5 mph 5%grade-reclining-supported,sitting,unkown,unkown,indoor,treadmill running at 5.5 mph and reclining,free
+300 kpm/min,unkown,unkown,unkown,unkown,unkown,unkown
+5.5 mph 5%grade,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+1 mph,upright,unkown,unkown,indoor,treadmill walking at 1 mph,free
+5.5 mph 5%grade-reclining,sitting,unkown,unkown,indoor,treadmill running at 5.5 mph and reclining,free
+300 kpm/min-reclining,sitting,unkown,unkown,unkown,reclining,free
+300 kpm/min-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+reclining-up,sitting,unkown,unkown,unkown,reclining,free
+300 kpm/min-reclining-stationary,sitting,unkown,unkown,unkown,reclining,free
+reclining-stationary,sitting,unkown,unkown,unkown,reclining,free
+5.5 mph 5%grade-reclining-stationary,sitting,unkown,unkown,indoor,treadmill running at 5.5 mph and reclining,free
+reclining-stationary-up,sitting,unkown,unkown,unkown,reclining,free
+1 mph-reclining-stationary,sitting,unkown,unkown,indoor,treadmill walking at 1 mph and reclining,free
+reclining-stationary-video game,sitting,unkown,unkown,unkown,reclining,free
+2 mph-reclining-stationary-video game,sitting,unkown,unkown,indoor,treadmill walking at 2 mph and reclining,free
+frisbee-outdoors-walking,upright,ambulation,ambulation,outdoor,self-paced walking and frisbee,frisbee
+escalator-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+escalator-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator up,free
+escalator-up,upright,unkown,unkown,indoor,escalator up,free
+escalator,upright,unkown,unkown,indoor,escalator,free
+down-escalator-standing,upright,sedentary,sedentary,indoor,standing and escalator down,free
+phone talking-telling story-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking and using phone,holding cellphone
+phone talking-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking and using phone,holding cellphone
+mbta-telling story-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking,talking
+escalator-mbta-telling story-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking,talking
+escalator-mbta-telling story,upright,unkown,unkown,indoor,escalator and talking,talking
+escalator-mbta-standing-telling story,upright,sedentary,sedentary,indoor,standing and escalator and talking,talking
+escalator-mbta-standing-telling story-up,upright,sedentary,sedentary,indoor,standing and escalator up and talking,talking
+escalator-mbta-standing-up,upright,sedentary,sedentary,indoor,standing and escalator up,free
+supported-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+mbta-stairs-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+carrying drinking-outdoors-walking,upright,ambulation,ambulation,outdoor,self-paced walking carrying a drink,carrying a drink
+bag-escalator-telling story-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking with bag,talking
+bag-elevator-telling story-walking,upright,ambulation,ambulation,indoor,self-paced walking and elevator and talking with bag,talking
+bag-elevator-walking,upright,ambulation,ambulation,indoor,self-paced walking and elevator with bag,free
+bag-elevator,upright,sedentary,sedentary,indoor,elevator with bag,free
+bag-elevator-standing,upright,sedentary,sedentary,indoor,standing and elevator with bag,free
+shelf unload,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+shelf unload-walking,upright,ambulation,ambulation,unkown,self-paced walking and shelf loading or unloading,shelf loading or unloading
+shelf reload-walking,upright,ambulation,ambulation,unkown,self-paced walking and shelf loading or unloading,shelf loading or unloading
+sitting-sweeping,sitting,sedentary,sedentary,indoor,sitting and sweeping,sweeping
+5.5 mph 5%grade-jog/running,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+phone talking-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking and using phone,holding cellphone
+phone talking-supported-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking and using phone,holding cellphone
+supported-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+carrying drinking-supported-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking carrying a drink,carrying a drink
+supported-telling story-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking,talking
+standing-sweeping-telling story,upright,sedentary,sedentary,indoor,standing and sweeping and talking,sweeping
+reclining-telling story-unlabelled,sitting,unkown,unkown,unkown,reclining and talking,talking
+standing-unlabelled-web browsing,upright,sedentary,sedentary,unkown,standing and web browsing,free
+standing-telling story-unlabelled-web browsing,upright,sedentary,sedentary,unkown,standing and web browsing and talking,talking
+telling story-unlabelled,unkown,unkown,unkown,unkown,talking,talking
+elevator-telling story-unlabelled,upright,sedentary,sedentary,indoor,elevator and talking,talking
+down-elevator-telling story-unlabelled,upright,sedentary,sedentary,indoor,elevator down and talking,talking
+down-elevator-unlabelled,upright,sedentary,sedentary,indoor,elevator down,free
+outdoors-supported-telling story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+outdoors-telling story-unlabelled,unkown,unkown,unkown,outdoor,talking,talking
+outdoors-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+mbta-standing-telling story-unlabelled,upright,sedentary,sedentary,indoor,standing and talking,talking
+outdoors-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+outdoors-phone talking-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+phone talking-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking and using phone,holding cellphone
+escalator-phone talking-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking and using phone,holding cellphone
+escalator-phone talking-unlabelled,upright,unkown,unkown,indoor,escalator and talking and using phone,holding cellphone
+phone talking-unlabelled,unkown,unkown,unkown,unkown,talking and using phone,holding cellphone
+down-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+natural-standing-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-unlabelled-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+stairs-unlabelled,upright,ambulation,ambulation,indoor,escalator,free
+stairs-unlabelled-up,upright,ambulation,ambulation,indoor,escalator,free
+bag-stairs-unlabelled-up,upright,ambulation,ambulation,indoor,escalator with bag,free
+bag-stairs-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+bag-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+shelf unload-standing-unlabelled,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-shelf unload-standing-unlabelled,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-standing-unlabelled,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+sitting-telling story-unlabelled,sitting,sedentary,sedentary,unkown,sitting and talking,talking
+reclining-texting-unlabelled-web browsing,sitting,sedentary,sedentary,unkown,reclining and texting and web browsing,using phone
+biking-stationary-unlabelled,sitting,cycling,cycling,indoor,stationary biking,biking
+arms on desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking with arms on desk,arms on desk
+3 mph-bag-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-texting-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting,using phone
+3 mph-phone talking-texting-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting and talking and using phone,holding cellphone
+3 mph-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking,talking
+3 mph-carrying drinking-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+5.5 mph 5%grade-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5.5 mph 5%grade-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+5.5 mph 5%grade-jog/running-telling story-treadmill-unlabelled,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph and talking,talking
+jog/running-telling story-treadmill-unlabelled,upright,ambulation,ambulation,indoor,running and talking,talking
+dominant hand-sitting-unlabelled-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+arms on desk-dominant hand-sitting-unlabelled-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+arms on desk-standing-unlabelled,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+arms on desk-standing-typing-unlabelled,upright,sedentary,sedentary,indoor,standing and keyboard typing with arms on desk,arms on desk
+down-elevator-standing-texting-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator down and texting,using phone
+texting-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and texting,using phone
+standing-unlabelled-waiting,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-telling story-unlabelled-waiting,upright,sedentary,sedentary,unkown,standing and talking,talking
+unlabelled-up,unkown,unkown,unkown,unkown,unkown,unkown
+non-dominant hand-standing-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,free
+mbta-non-dominant hand-standing-unlabelled,upright,sedentary,sedentary,indoor,standing naturally,free
+mbta-non-dominant hand-standing-unlabelled-waiting,upright,sedentary,sedentary,indoor,standing naturally,free
+mbta-non-dominant hand-standing-telling story-unlabelled-waiting,upright,sedentary,sedentary,indoor,standing and talking,talking
+elevator-standing-unlabelled-up,upright,sedentary,sedentary,indoor,standing and elevator up,free
+elevator-standing-texting-unlabelled-up,upright,sedentary,sedentary,indoor,standing and elevator up and texting,using phone
+sitting-texting-unlabelled,sitting,sedentary,sedentary,unkown,sitting and texting,using phone
+reclining-unlabelled-web browsing,sitting,unkown,unkown,unkown,reclining and web browsing,free
+3.5 mph-arms on desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3 mph-bag-dominant hand-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+carrying drinking-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking carrying a drink,carrying a drink
+treadmill-unlabelled,upright,unkown,unkown,indoor,unkown,unkown
+outdoors-telling story-unlabelled-waiting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+outdoors-standing-unlabelled-waiting,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-standing-telling story-unlabelled-waiting,upright,sedentary,sedentary,outdoor,standing and talking,talking
+outdoors-standing-texting-unlabelled-waiting,upright,sedentary,sedentary,outdoor,standing and texting,using phone
+sitting-stairs-unlabelled-up,sitting,ambulation,ambulation,indoor,sitting and escalator,free
+mbta-sitting-unlabelled,sitting,sedentary,sedentary,indoor,sitting still,free
+mbta-sitting-unlabelled-upper body movement,sitting,sedentary,sedentary,indoor,sitting still,free
+mbta-sitting-texting-unlabelled-upper body movement,sitting,sedentary,sedentary,indoor,sitting and texting,using phone
+mbta-sitting-texting-unlabelled,sitting,sedentary,sedentary,indoor,sitting and texting,using phone
+stop light-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+stop light-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+other-outdoors-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+escalator-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+escalator-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator up,free
+frisbee-outdoors-standing-unlabelled,upright,sedentary,sedentary,outdoor,standing and frisbee,frisbee
+frisbee-outdoors-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and frisbee,frisbee
+frisbee-jog/running-outdoors-unlabelled,upright,ambulation,ambulation,outdoor,running and frisbee,frisbee
+lying-texting-unlabelled,lying,sedentary,sleep,indoor,texting,still
+5.5 mph 5%grade-unlabelled,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+300 kpm/min-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+3 mph-dominant hand-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-dominant hand-texting-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting,using phone
+sweeping-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and sweeping,sweeping
+arms on desk-standing-telling story-unlabelled,upright,sedentary,sedentary,indoor,standing and talking with arms on desk,arms on desk
+arms on desk-standing-unlabelled-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+phone talking-texting-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and texting and talking and using phone,holding cellphone
+outdoors-phone talking-standing-unlabelled,upright,sedentary,sedentary,outdoor,standing and talking and using phone,holding cellphone
+escalator-unlabelled,upright,unkown,unkown,indoor,escalator,free
+escalator-unlabelled-up,upright,unkown,unkown,indoor,escalator up,free
+escalator-standing-unlabelled-up,upright,sedentary,sedentary,indoor,standing and escalator up,free
+frisbee-standing-unlabelled,upright,sedentary,sedentary,unkown,standing and frisbee,frisbee
+telling story-unlabelled-up-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking,talking
+bag-down-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs with bag,free
+elevator-unlabelled-up,upright,sedentary,sedentary,indoor,elevator up,free
+bag-elevator-unlabelled-up,upright,sedentary,sedentary,indoor,elevator up with bag,free
+phone talking-reclining-unlabelled,sitting,unkown,unkown,unkown,reclining and talking and using phone,holding cellphone
+1 mph-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph and talking,talking
+2 mph-arms on desk-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph and talking with arms on desk,arms on desk
+3.5 mph-texting-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting,using phone
+3 mph-drink-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+5.5 mph 5%grade-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph and talking,talking
+sweeping-unlabelled,upright,others,others,indoor,sweeping,sweeping
+getting ready for something,unkown,unkown,unkown,unkown,unkown,unkown
+going somewhere (walking),upright,ambulation,ambulation,unkown,self-paced walking,free
+arms on desk-standing-telling story-unlabelled-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing and talking with arms on desk,arms on desk
+arms on desk-standing-telling story-typing-unlabelled-web browsing,upright,sedentary,sedentary,indoor,standing and keyboard typing and web browsing and talking with arms on desk,arms on desk
+stop light-telling story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+stop light-telling story-unlabelled,unkown,unkown,unkown,outdoor,talking,talking
+standing-stop light-telling story-unlabelled,upright,sedentary,sedentary,outdoor,standing and talking,talking
+mbta-telling story-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and talking,talking
+outdoors-phone talking-telling story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+escalator-phone talking-standing-unlabelled,upright,sedentary,sedentary,indoor,standing and escalator and talking and using phone,holding cellphone
+escalator-phone talking-standing-unlabelled-up,upright,sedentary,sedentary,indoor,standing and escalator up and talking and using phone,holding cellphone
+texting-unlabelled-vending machine-walking,upright,ambulation,ambulation,unkown,self-paced walking and using vending machine and texting,using vending machine
+texting-unlabelled-vending machine,upright,sedentary,sedentary,unkown,using vending machine and texting,using vending machine
+unlabelled-vending machine,upright,unkown,unkown,unkown,using vending machine,using vending machine
+natural-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking naturally,free
+bag-down-stairs-telling story-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs and talking with bag,talking
+sitting-unlabelled-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing,free
+300 kpm/min-biking-stationary-unlabelled,sitting,cycling,cycling,indoor,biking outdoor and stationary biking,biking
+3.5 mph-arms on desk-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking with arms on desk,arms on desk
+3.5 mph-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking,talking
+3 mph-phone talking-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+sitting-telling story-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing and talking,talking
+escalator-standing-telling story-up,upright,sedentary,sedentary,indoor,standing and escalator up and talking,talking
+dominant hand-outdoors-phone talking-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+dominant hand-outdoors-phone talking-standing,upright,sedentary,sedentary,outdoor,standing and talking and using phone,holding cellphone
+elevator-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and elevator up,free
+stationary,unkown,unkown,unkown,unkown,unkown,unkown
+stationary-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+standing-stop light,upright,sedentary,sedentary,outdoor,standing naturally,free
+bag-stairs-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+up-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+3 mph-arms on desk-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3 mph-drink-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-drink-non-dominant hand-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-bag-non-dominant hand-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+jog/running-treadmill,upright,ambulation,ambulation,indoor,running,free
+arms on desk-sitting-unlabelled-web browsing,sitting,sedentary,sedentary,indoor,sitting and web browsing with arms on desk,arms on desk
+arms on desk-sitting-unlabelled,sitting,sedentary,sedentary,indoor,sitting with arms on desk,arms on desk
+arms on desk-standing-unlabelled-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+mbta-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+mbta-outdoors-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+standing-telling story-texting-unlabelled,upright,sedentary,sedentary,unkown,standing and texting and talking,talking
+standing-texting-unlabelled,upright,sedentary,sedentary,unkown,standing and texting,using phone
+stairs-standing-texting-unlabelled,upright,ambulation,ambulation,indoor,standing and texting and escalator,using phone
+dominant hand-mbta-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+dominant hand-mbta-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+dominant hand-down-mbta-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+non-dominant hand-outdoors-phone talking-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+lower body movement-standing-unlabelled-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+elevator-lower body movement-standing-unlabelled-up,upright,sedentary,sedentary,indoor,standing and elevator up,free
+bag-dominant hand-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+bag-dominant hand-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+bag-dominant hand-stairs-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+bag-non-dominant hand-stairs-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+lower body movement-sitting-unlabelled,sitting,sedentary,sedentary,unkown,sitting still,free
+3 mph-arms on desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+bag-dominant hand-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking with bag,free
+labeling my day,unkown,unkown,unkown,unkown,unkown,unkown
+stop light-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+stop light-unlabelled-waiting-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+escalator-texting-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and texting and escalator,using phone
+escalator-texting-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator up and texting,using phone
+escalator-standing-texting-unlabelled-up,upright,sedentary,sedentary,indoor,standing and escalator up and texting,using phone
+mbta-standing-texting-unlabelled,upright,sedentary,sedentary,indoor,standing and texting,using phone
+unlabelled-waiting-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+down-stairs-unlabelled,upright,ambulation,ambulation,indoor,walking down stairs,free
+bag-down-stairs-unlabelled,upright,ambulation,ambulation,indoor,walking down stairs with bag,free
+bag-unlabelled,unkown,unkown,unkown,unkown, with bag,free
+bag-standing-unlabelled,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-standing-unlabelled-waiting,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-elevator-unlabelled,upright,sedentary,sedentary,indoor,elevator with bag,free
+bag-elevator-standing-unlabelled-up,upright,sedentary,sedentary,indoor,standing and elevator up with bag,free
+3 mph-bag-drink-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,carrying a drink
+bag-phone talking-stairs-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator and talking and using phone with bag,holding cellphone
+bag-elevator-standing-telling story-unlabelled-up,upright,sedentary,sedentary,indoor,standing and elevator up and talking with bag,talking
+reclining-telling story-texting-unlabelled,sitting,sedentary,sedentary,unkown,reclining and texting and talking,talking
+3 mph-bag-dominant hand-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking with bag,talking
+3 mph-dominant hand-drink-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+5.5 mph 5%grade-jog/running-unlabelled,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+outdoors-unlabelled-waiting-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+bag-elevator-standing-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator with bag,free
+other-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+reclining-telling story-unlabelled-web browsing,sitting,unkown,unkown,unkown,reclining and web browsing and talking,talking
+300 kpm/min-biking-phone talking-stationary-unlabelled,sitting,cycling,cycling,indoor,biking outdoor and stationary biking and talking and using phone,holding cellphone
+escalator-telling story-unlabelled,upright,unkown,unkown,indoor,escalator and talking,talking
+standing-unlabelled-up,upright,sedentary,sedentary,unkown,standing naturally,free
+down-telling story-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking,talking
+outdoors-texting-unlabelled,unkown,sedentary,sedentary,outdoor,texting,using phone
+frisbee-jumping-unlabelled,upright,others,others,unkown,frisbee,frisbee
+bag-down-unlabelled,unkown,unkown,unkown,unkown, with bag,free
+shelf reload-unlabelled,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+shelf reload-shelf unload-unlabelled,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+shelf unload-unlabelled,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+unlabelled-web browsing,unkown,unkown,unkown,unkown,web browsing,free
+3 mph-drink-telling story-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking,carrying a drink
+3 mph-phone talking-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-phone talking-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-jog/running-treadmill-unlabelled,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-jog/running-unlabelled,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+sitting-typing-web browsing,sitting,sedentary,sedentary,indoor,sitting and keyboard typing and web browsing,keyboard typing
+arms on desk-standing-typing-web browsing,upright,sedentary,sedentary,indoor,standing and keyboard typing and web browsing with arms on desk,arms on desk
+down-stairs-texting-walking,upright,ambulation,ambulation,indoor,walking down stairs and texting,using phone
+down-phone talking-stairs-walking,upright,ambulation,ambulation,indoor,walking down stairs and talking and using phone,holding cellphone
+stop light-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+standing-telling story-waiting,upright,sedentary,sedentary,unkown,standing and talking,talking
+mbta-sitting-telling story,sitting,sedentary,sedentary,indoor,sitting and talking,talking
+mbta-sitting,sitting,sedentary,sedentary,indoor,sitting still,free
+down-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+bag-stairs-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+bag-elevator-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and elevator up with bag,free
+3 mph-arms on desk-dominant hand-drink-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3 mph-dominant hand-drink-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant hand-phone talking-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-non-dominant hand-phone talking-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-non-dominant hand-phone talking-texting-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting and talking and using phone,holding cellphone
+3 mph-non-dominant hand-texting-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting,using phone
+3.5 mph-telling story-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking,talking
+still-treadmill,upright,sedentary,sedentary,indoor,unkown,still
+down-elevator-standing-telling story-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator down and talking,talking
+escalator-standing-unlabelled,upright,sedentary,sedentary,indoor,standing and escalator,free
+outdoors-telling story-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting and talking,talking
+phone talking-stop light-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting and talking and using phone,holding cellphone
+biking-frisbee-unlabelled,sitting,cycling,cycling,unkown,frisbee and biking,biking
+bag-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+2 mph-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+3 mph-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-sitting-treadmill-unlabelled,sitting,sedentary,sedentary,indoor,treadmill walking at 3-3.5 mph and sitting,free
+arms on desk-sitting-web browsing,sitting,sedentary,sedentary,indoor,sitting and web browsing with arms on desk,arms on desk
+bag-stop light-telling story-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking with bag,talking
+bag-outdoors-telling story-waiting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking with bag,talking
+bag-outdoors-standing-telling story-waiting,upright,sedentary,sedentary,outdoor,standing and talking with bag,talking
+mbta-sitting-texting,sitting,sedentary,sedentary,indoor,sitting and texting,using phone
+mbta-sitting-web browsing,sitting,sedentary,sedentary,indoor,sitting and web browsing,free
+mbta-walking-web browsing,upright,ambulation,ambulation,indoor,self-paced walking and web browsing,free
+down-stairs-walking-web browsing,upright,ambulation,ambulation,indoor,walking down stairs and web browsing,free
+down-outdoors-walking-web browsing,upright,ambulation,ambulation,outdoor,self-paced walking and web browsing,free
+bag-outdoors-telling story-texting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting and talking with bag,talking
+bag-outdoors-phone talking-telling story-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone with bag,holding cellphone
+bag,unkown,unkown,unkown,unkown, with bag,free
+sitting-telling story-texting,sitting,sedentary,sedentary,unkown,sitting and texting and talking,talking
+reclining-texting-web browsing,sitting,sedentary,sedentary,unkown,reclining and texting and web browsing,using phone
+2 mph-arms on desk-telling story-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph and talking with arms on desk,arms on desk
+bag-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking with bag,free
+3.5 mph-bag-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+5.5 mph 5%grade-treadmill,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+3 mph-dominant hand-phone talking-telling story-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+bag-down-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+1 mph-arms on desk-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+waiting (standing),upright,sedentary,sedentary,unkown,standing naturally,free
+standing-still-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing naturally,still
+standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+jumping jacks-unlabelled-wear on,upright,others,others,unkown,jumping jacks,jumping jacks
+still-unlabelled-wear on,unkown,sedentary,sedentary,unkown,unkown,still
+sitting-unlabelled-wear on-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+reclining-unlabelled-wear on,sitting,unkown,unkown,unkown,reclining,free
+reclining-telling story-unlabelled-wear on,sitting,unkown,unkown,unkown,reclining and talking,talking
+standing-unlabelled-wear on-web browsing,upright,sedentary,sedentary,unkown,standing and web browsing,free
+mbta-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing naturally,free
+unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+telling story-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and talking,talking
+unlabelled-vending machine-wear on,upright,unkown,unkown,unkown,using vending machine,using vending machine
+stairs-unlabelled-up-wear on,upright,ambulation,ambulation,indoor,escalator,free
+stairs-unlabelled-wear on,upright,ambulation,ambulation,indoor,escalator,free
+down-stairs-unlabelled-wear on,upright,ambulation,ambulation,indoor,walking down stairs,free
+bag-down-stairs-unlabelled-wear on,upright,ambulation,ambulation,indoor,walking down stairs with bag,free
+bag-unlabelled-wear on,unkown,unkown,unkown,unkown, with bag,free
+biking-outdoors-unlabelled-wear on,sitting,cycling,cycling,outdoor,biking outdoor,biking
+elevator-unlabelled-wear on,upright,sedentary,sedentary,indoor,elevator,free
+elevator-unlabelled-up-wear on,upright,sedentary,sedentary,indoor,elevator up,free
+bag-elevator-unlabelled-up-wear on,upright,sedentary,sedentary,indoor,elevator up with bag,free
+laundry-unlabelled,unkown,unkown,unkown,unkown,unkown,laundry
+treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+1 mph-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,unkown,unkown
+2 mph-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+3 mph-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-phone talking-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-carrying drinking-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+3 mph-carrying drinking-dominant h-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+3 mph-carrying drinking-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+carrying drinking-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking carrying a drink,carrying a drink
+carrying drinking-unlabelled-wear on,unkown,unkown,unkown,unkown, carrying a drink,carrying a drink
+3 mph-bag-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+bag-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor, with bag,free
+3.5 mph-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+jog/running-unlabelled-wear on,upright,ambulation,ambulation,unkown,running,free
+jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,running,free
+5% grade-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,running,free
+5.5 mph-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5.5 mph-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+standing-still,upright,sedentary,sedentary,unkown,standing naturally,still
+jumping jacks-sitting,sitting,sedentary,sedentary,unkown,sitting and jumping jacks,jumping jacks
+sitting-still,sitting,sedentary,sedentary,unkown,sitting still,still
+arms on desk-writing,unkown,unkown,unkown,indoor,writing with arms on desk,writing
+reclining-sitting,sitting,sedentary,sedentary,unkown,sitting and reclining,free
+reclining-sitting-telling story,sitting,sedentary,sedentary,unkown,sitting and reclining and talking,talking
+stairs,upright,ambulation,ambulation,indoor,escalator,free
+city-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-telling story-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+city-telling story-texting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting and talking,talking
+city-standing-telling story,upright,sedentary,sedentary,outdoor,standing and talking,talking
+mbta-standing-upper body,upright,sedentary,sedentary,indoor,standing naturally,free
+mbta-standing-telling story-upper body,upright,sedentary,sedentary,indoor,standing and talking,talking
+vending machine,upright,unkown,unkown,unkown,using vending machine,using vending machine
+upper body-vending machine,upright,unkown,unkown,unkown,using vending machine,using vending machine
+phone talking,unkown,unkown,unkown,unkown,talking and using phone,holding cellphone
+city-phone talking-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+phone talking-standing,upright,sedentary,sedentary,unkown,standing and talking and using phone,holding cellphone
+standing-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+wear on,unkown,unkown,unkown,unkown,unkown,unkown
+elevator-wear on,upright,sedentary,sedentary,indoor,elevator,free
+down-elevator-wear on,upright,sedentary,sedentary,indoor,elevator down,free
+biking-wear on,sitting,cycling,cycling,unkown,biking,biking
+biking-city-wear on,sitting,cycling,cycling,outdoor,biking,biking
+bag-stairs,upright,ambulation,ambulation,indoor,escalator with bag,free
+bag-stairs-up,upright,ambulation,ambulation,indoor,escalator with bag,free
+bag-stairs-telling story-up,upright,ambulation,ambulation,indoor,escalator and talking with bag,talking
+shelf unload-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and shelf loading or unloading,shelf loading or unloading
+shelf reload-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and shelf loading or unloading,shelf loading or unloading
+lying-wear on,lying,sedentary,sleep,indoor,unkown,still
+sitting-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+sitting-telling story-wear on,sitting,sedentary,sedentary,unkown,sitting and talking,talking
+treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+2 mph-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+3.5 mph-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+non-dominant h-wear on,unkown,unkown,unwear,unkown,unkown,unkown
+treadmill-wear on,upright,unkown,unkown,indoor,unkown,unkown
+non-dominant h-walking-wear on,upright,ambulation,unwear,unkown,self-paced walking,free
+carrying drinking-non-dominant h-walking-wear on,upright,ambulation,unwear,unkown,self-paced walking carrying a drink,carrying a drink
+phone talking-texting-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking and texting and talking and using phone,holding cellphone
+texting-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking and texting,using phone
+phone talking-wear on,unkown,unkown,unkown,unkown,talking and using phone,holding cellphone
+bag-dominant h-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+bag-dominant h-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+5.5 mph-jog/running-treadmill,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5.5 mph-jog/running-treadmill-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+laundry-wear on,unkown,unkown,unkown,unkown,unkown,laundry
+laundry-standing-wear on,upright,sedentary,sedentary,unkown,standing naturally,laundry
+sweeping-wear on,upright,others,others,indoor,sweeping,sweeping
+sweeping-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and sweeping,sweeping
+reclining-sitting-texting,sitting,sedentary,sedentary,unkown,sitting and reclining and texting,using phone
+city-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+vending machine-wear on,upright,unkown,unkown,unkown,using vending machine,using vending machine
+upper body-vending machine-wear on,upright,unkown,unkown,unkown,using vending machine,using vending machine
+outdoors-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+city-telling story-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+city-lower body-telling story-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+escalator-wear on,upright,unkown,unkown,indoor,escalator,free
+escalator-up-wear on,upright,unkown,unkown,indoor,escalator up,free
+stairs-wear on,upright,ambulation,ambulation,indoor,escalator,free
+down-stairs-wear on,upright,ambulation,ambulation,indoor,walking down stairs,free
+stop light-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+waiting-wear on,unkown,sedentary,sedentary,unkown,unkown,unkown
+city-waiting-wear on,unkown,sedentary,sedentary,outdoor,unkown,unkown
+city-standing-waiting-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+mbta-standing-wear on,upright,sedentary,sedentary,indoor,standing naturally,free
+dominant h-mbta-standing-wear on,upright,sedentary,sedentary,indoor,standing naturally,free
+city-texting-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+biking-city,sitting,cycling,cycling,outdoor,biking,biking
+bag-wear on,unkown,unkown,unkown,unkown, with bag,free
+bag-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+bag-stairs-wear on,upright,ambulation,ambulation,indoor,escalator with bag,free
+bag-stairs-up-wear on,upright,ambulation,ambulation,indoor,escalator with bag,free
+bag-stairs-texting-up-wear on,upright,ambulation,ambulation,indoor,texting and escalator with bag,using phone
+bag-up-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+lying-texting,lying,sedentary,sleep,indoor,texting,still
+sitting-texting-wear on,sitting,sedentary,sedentary,unkown,sitting and texting,using phone
+texting-wear on,unkown,sedentary,sedentary,unkown,texting,using phone
+texting-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and texting,using phone
+reclining-texting-wear on,sitting,sedentary,sedentary,unkown,reclining and texting,using phone
+reclining-sitting-texting-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining and texting,using phone
+texting-treadmill-typing-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and keyboard typing and texting,keyboard typing
+texting-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and texting,using phone
+1 mph-arms on desk-texting-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph and texting with arms on desk,arms on desk
+2 mph-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+2 mph-texting-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph and texting,using phone
+non-dominant h,unkown,unkown,unkown,unkown,unkown,unkown
+non-dominant h-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+bag-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with bag,free
+carrying drinking-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking carrying a drink,carrying a drink
+3 mph-carrying drinking-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+sitting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+reclining-sitting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining,free
+standing-telling story-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and talking,talking
+telling story-unlabelled-wear on,unkown,unkown,unkown,unkown,talking,talking
+down-standing-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,free
+telling story-texting-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and texting and talking,talking
+standing-telling story-texting-unlabelled-waiting,upright,sedentary,sedentary,unkown,standing and texting and talking,talking
+mbta-telling story-unlabelled,unkown,unkown,unkown,indoor,talking,talking
+stop light-telling story-unlabelled-wear on,unkown,unkown,unkown,outdoor,talking,talking
+phone talking-stop light-telling story-unlabelled-wear on,unkown,unkown,unkown,outdoor,talking and using phone,holding cellphone
+phone talking-stop light-unlabelled-wear on,unkown,unkown,unkown,outdoor,talking and using phone,holding cellphone
+phone talking-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and talking and using phone,holding cellphone
+frisbee-unlabelled-wear on,upright,others,others,unkown,frisbee,frisbee
+frisbee-shaking arms-unlabelled-wear on,upright,others,others,unkown,frisbee,frisbee
+biking-unlabelled-wear on,sitting,cycling,cycling,unkown,biking,biking
+lying-texting-unlabelled-wear on-web browsing,lying,sedentary,sleep,indoor,texting and web browsing,still
+lying-unlabelled-wear on-web browsing,lying,sedentary,sleep,indoor,web browsing,still
+reclining-sitting-unlabelled-web browsing,sitting,sedentary,sedentary,unkown,sitting and reclining and web browsing,free
+reclining-sitting-texting-unlabelled,sitting,sedentary,sedentary,unkown,sitting and reclining and texting,using phone
+arms on desk-unlabelled-wear on,unkown,unkown,unkown,indoor, with arms on desk,arms on desk
+arms on desk-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor, with arms on desk,arms on desk
+1 mph-arms on desk-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms on desk-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+2 mph-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+2 mph-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+2 mph-arms on desk-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+2 mph-arms on desk-phone talking-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph and talking and using phone with arms on desk,arms on desk
+2 mph-phone talking-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph and talking and using phone,holding cellphone
+phone talking-unlabelled-wear on,unkown,unkown,unkown,unkown,talking and using phone,holding cellphone
+3.5 mph-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-dominant h-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-bag-dominant h-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant h-jog/running-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+bag-dominant h-jog/running-unlabelled-wear on,upright,ambulation,ambulation,unkown,running with bag,free
+5.5 mph-bag-dominant h-jog/running-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph with bag,free
+5.5 mph-dominant h-jog/running-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5.5 mph-dominant h-jog/running-unlabelled,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5.5 mph-jog/running-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+3 mph-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-dominant h-drink-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+carrying drinking-dominant h-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking carrying a drink,carrying a drink
+3 mph-carrying drinking-dominant h-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph carrying a drink,carrying a drink
+3 mph-telling story-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking,talking
+3 mph-telling story-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking,talking
+telling story-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and talking,talking
+going somewhere,unkown,unkown,unkown,unkown,unkown,unkown
+reclining-sitting-texting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining and texting,using phone
+reclining-sitting-telling story-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining and talking,talking
+down-elevator-unlabelled-wear on,upright,sedentary,sedentary,indoor,elevator down,free
+shelf unload-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-unlabelled-wear on,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+lying-unlabelled-wear on,lying,sedentary,sleep,indoor,unkown,still
+bag-dominant h-unlabelled-wear on,unkown,unkown,unkown,unkown, with bag,free
+3 mph-drink-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant h-drink-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+drink-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,carrying a drink
+drink-unlabelled,unkown,unkown,unkown,unkown,unkown,carrying a drink
+3 mph-phone talking-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-phone talking-treadmill-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+phone talking-unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown,talking and using phone,holding cellphone
+unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+3.5 mph-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+jog/running-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,unkown,running,free
+jog/running-treadmill-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,running,free
+5% grade-jog/running-treadmill-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,running,free
+5.5 mph-jog/running-treadmill-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+unlabelled-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+still-unlabelled-unlabelled,unkown,sedentary,sedentary,unkown,unkown,still
+jumping jacks-unlabelled-unlabelled,upright,others,others,unkown,jumping jacks,jumping jacks
+sitting-unlabelled-unlabelled,sitting,sedentary,sedentary,unkown,sitting still,free
+sitting-unlabelled-unlabelled-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+sitting-unlabelled-unlabelled-wear on-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+sitting-unlabelled-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+sitting-unlabelled-unlabelled-wear on-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing,free
+unlabelled-unlabelled-wear on-web browsing,unkown,unkown,unkown,unkown,web browsing,free
+standing-unlabelled-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,free
+arms rested on desk-standing-unlabelled-unlabelled-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+arms rested on desk-standing-unlabelled-unlabelled-web browsing-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+bag-unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown, with bag,free
+bag-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+bag-stairs-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,escalator with bag,free
+bag-down-stairs-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,walking down stairs with bag,free
+city-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-unlabelled-unlabelled-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+unlabelled-unlabelled-vending machine-wear on,upright,unkown,unkown,unkown,using vending machine,using vending machine
+bag-unlabelled-unlabelled-vending machine-wear on,upright,unkown,unkown,unkown,using vending machine with bag,using vending machine
+bag-telling story-unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown,talking with bag,talking
+bag-telling story-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and talking with bag,talking
+bag-city-telling story-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and talking with bag,talking
+bag-city-telling story-unlabelled-unlabelled-wear on,unkown,unkown,unkown,outdoor,talking with bag,talking
+bag-escalator-telling story-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,escalator and talking with bag,talking
+bag-escalator-telling story-unlabelled-unlabelled-up-wear on,upright,unkown,unkown,indoor,escalator up and talking with bag,talking
+bag-telling story-unlabelled-unlabelled-up-wear on,unkown,unkown,unkown,unkown,talking with bag,talking
+bag-stairs-telling story-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,escalator and talking with bag,talking
+bag-down-stairs-telling story-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,walking down stairs and talking with bag,talking
+bag-down-telling story-unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown,talking with bag,talking
+bag-city-stop light-telling story-unlabelled-unlabelled-wear on,unkown,unkown,unkown,outdoor,talking with bag,talking
+bag-city-standing-telling story-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing and talking with bag,talking
+bag-city-standing-telling story-texting-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing and texting and talking with bag,talking
+bag-city-standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing with bag,free
+bag-standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-mbta-standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing with bag,free
+bag-dominant hand-mbta-standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing with bag,free
+bag-dominant hand-mbta-standing-telling story-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing and talking with bag,talking
+bag-dominant hand-standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-city-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking with bag,free
+bag-city-unlabelled-unlabelled-wear on,unkown,unkown,unkown,outdoor, with bag,free
+bag-frisbee-unlabelled-unlabelled-wear on,upright,others,others,unkown,frisbee with bag,frisbee
+bag-stairs-unlabelled-unlabelled-up-wear on,upright,ambulation,ambulation,indoor,escalator with bag,free
+bag-stairs-texting-unlabelled-unlabelled-up-wear on,upright,ambulation,ambulation,indoor,texting and escalator with bag,using phone
+biking-city-unlabelled,sitting,cycling,cycling,outdoor,biking,biking
+elevator-texting-unlabelled-up,upright,sedentary,sedentary,indoor,elevator up and texting,using phone
+shelf unload-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and shelf loading or unloading,shelf loading or unloading
+shelf reload-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and shelf loading or unloading,shelf loading or unloading
+3.5 mph-texting-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and texting,using phone
+texting-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and texting,using phone
+texting-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and texting,using phone
+texting-unlabelled-wear on,unkown,sedentary,sedentary,unkown,texting,using phone
+dominant hand-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+3 mph-dominant hand-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-dominant hand-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+bag-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with bag,free
+bag-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+bag-non-dominant hand-unlabelled-walking-wear on,upright,ambulation,unwear,unkown,self-paced walking with bag,free
+3 mph-bag-non-dominant hand-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-non-dominant hand-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph,free
+5.5 mph-dominant hand-jog/running-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+down-elevator-texting-unlabelled,upright,sedentary,sedentary,indoor,elevator down and texting,using phone
+elevator-texting-unlabelled,upright,sedentary,sedentary,indoor,texting and elevator,using phone
+city-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-telling story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking,talking
+city-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+city-jog/running-unlabelled,upright,ambulation,ambulation,outdoor,running,free
+down-stairs-texting-unlabelled,upright,ambulation,ambulation,indoor,walking down stairs and texting,using phone
+city-telling story-unlabelled,unkown,unkown,unkown,outdoor,talking,talking
+city-stop light-telling story-unlabelled,unkown,unkown,unkown,outdoor,talking,talking
+city-standing-telling story-unlabelled,upright,sedentary,sedentary,outdoor,standing and talking,talking
+city-mbta-standing-telling story-unlabelled,upright,sedentary,sedentary,indoor,standing and talking,talking
+city-phone talking-telling story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+city-phone talking-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and talking and using phone,holding cellphone
+city-phone talking-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting and talking and using phone,holding cellphone
+city-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+city-standing-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+carrying drinking-standing-unlabelled,upright,sedentary,sedentary,unkown,standing carrying a drink,carrying a drink
+down-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+arms on desk-unlabelled,unkown,unkown,unkown,indoor, with arms on desk,arms on desk
+arms on desk-treadmill-unlabelled,upright,unkown,unkown,indoor, with arms on desk,arms on desk
+1 mph-arms on desk-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms on desk-telling story-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 1 mph and talking with arms on desk,arms on desk
+2 mph-arms on desk-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3.5 mph-arms on desk-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+bag-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking with bag,free
+bag-non-dominant h-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+drink-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking,carrying a drink
+drink-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking,carrying a drink
+dominant h-drink-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking,carrying a drink
+dominant h-drink-telling story-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and talking,carrying a drink
+5.5 mph-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+5.5 mph-jog/running-treadmill-unlabelled,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+standing-unlabelled-wearon,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-still-unlabelled-wearon,upright,sedentary,sedentary,unkown,standing naturally,still
+unlabelled-wearon,unkown,unkown,unkown,unkown,unkown,unkown
+jumping jacks-unlabelled-wearon,upright,others,others,unkown,jumping jacks,jumping jacks
+jumping jacks-standing-unlabelled-wearon,upright,sedentary,sedentary,unkown,standing and jumping jacks,jumping jacks
+still-unlabelled-wearon,unkown,sedentary,sedentary,unkown,unkown,still
+sitting-unlabelled-wearon,sitting,sedentary,sedentary,unkown,sitting still,free
+unlabelled-writing,unkown,unkown,unkown,unkown,writing,writing
+sitting-still-unlabelled,sitting,sedentary,sedentary,unkown,sitting still,still
+2 mph-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+3 mph-dominant h-drink-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-bag-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with bag,free
+phone talking-treadmill-unlabelled,upright,unkown,unkown,indoor,talking and using phone,holding cellphone
+5% grade-jog/running-treadmill-unlabelled,upright,ambulation,ambulation,indoor,running,free
+standing-still-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,still
+outdoors-story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-standing-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-standing-stop light-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-stop light-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-phone-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+outdoors-phone-standing-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing and using phone,holding cellphone
+outdoors-phone-standing-stop light-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing and using phone,holding cellphone
+outdoors-phone-stop light-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+sitting-still-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting still,still
+reclining-texting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,reclining and texting,using phone
+sweeping-unlabelled-wear on,upright,others,others,indoor,sweeping,sweeping
+laundry-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing naturally,laundry
+laundry-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,laundry
+biking-stationary-unlabelled-wear on,sitting,cycling,cycling,indoor,stationary biking,biking
+300 kpm/min-biking-stationary-unlabelled-wear on,sitting,cycling,cycling,indoor,biking outdoor and stationary biking,biking
+1 mph-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+1 mph-arms rested on the desk-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on the desk-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on the desk-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+2 mph-arms rested on the desk-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3 mph-dominant hand-drink-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+dominant hand-drink-unlabelled,unkown,unkown,unkown,unkown,unkown,carrying a drink
+3 mph-bag-dominant hand-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with bag,free
+bag-dominant hand-unlabelled,unkown,unkown,unkown,unkown, with bag,free
+3 mph-phone-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-phone-treadmill-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+5% grade-5.5 mph-jog/running-treadmill-unlabelled,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5.5 mph-unlabelled,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+5% grade-5.5 mph-unlabelled,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+jumping jacks-still-unlabelled,upright,sedentary,sedentary,unkown,jumping jacks,jumping jacks
+3 mph-standing-unlabelled,upright,sedentary,sedentary,indoor,treadmill walking at 3-3.5 mph and standing,free
+3 mph-standing-still-unlabelled,upright,sedentary,sedentary,indoor,treadmill walking at 3-3.5 mph and standing,still
+arms rested on the desk-sitting-unlabelled-wear on-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+arms rested on the desk-sitting-unlabelled-web browsing,sitting,sedentary,sedentary,indoor,sitting and web browsing with arms on desk,arms on desk
+arms rested on the desk-sitting-unlabelled-wear on-web browsing,sitting,sedentary,sedentary,indoor,sitting and web browsing with arms on desk,arms on desk
+sitting-unlabelled-wear on-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing,free
+sitting-texting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and texting,using phone
+arms rested on the desk-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+arms rested on the desk-arms rested on the desk-standing-unlabelled-wear on-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+arms rested on the desk-standing-unlabelled-wear on-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+elevator-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing and elevator,free
+down-elevator-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing and elevator down,free
+down-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-unlabelled-vending machine-wear on,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+escalator-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing and escalator,free
+escalator-standing-unlabelled-up-wear on,upright,sedentary,sedentary,indoor,standing and escalator up,free
+standing-unlabelled-up-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-texting-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and texting,using phone
+down-sitting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+down-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+down-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+outdoors-unlabelled-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+outdoors-standing-story-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-standing-story-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+elevator-standing-unlabelled-up-wear on,upright,sedentary,sedentary,indoor,standing and elevator up,free
+biking-city-unlabelled-wear on,sitting,cycling,cycling,outdoor,biking,biking
+bag-stairs-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+bag-stairs-unlabelled-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+bag-unlabelled-up-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+sitting-story-unlabelled,sitting,sedentary,sedentary,unkown,sitting still,free
+sitting-texting-unlabelled-web browsing,sitting,sedentary,sedentary,unkown,sitting and texting and web browsing,using phone
+1 mph-arms rested on desk-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on desk-story-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on desk-story-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on desk-story-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+story-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+3 mph-3.5 mph-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-bag-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-jog/running-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+bag-dominant hand-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,running with bag,free
+5.5 mph-bag-dominant hand-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph with bag,free
+5.5 mph-bag-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph with bag,free
+5% grade-5.5 mph-bag-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph with bag,free
+5% grade-5.5 mph-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5% grade-5.5 mph-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+5% grade-5.5 mph-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5% grade-5.5 mph-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5% grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+3 mph-5% grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-phone talking-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+3 mph-phone talking-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and talking and using phone,holding cellphone
+phone talking-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and talking and using phone,holding cellphone
+3 mph-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-dominant hand-drink-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant hand-drink-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant hand-drink-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+dominant hand-drink-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,carrying a drink
+3 mph-story-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-story-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-story-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+story-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+arms rested on the desk-sitting-unlabelled-wear on,sitting,sedentary,sedentary,indoor,sitting with arms on desk,arms on desk
+sitting-story-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+arms rested on the desk-standing-unlabelled-wear on-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+standing-unlabelled-wear on-writing,upright,sedentary,sedentary,unkown,standing and writing,writing
+arms rested on the desk-unlabelled-wear on-writing,unkown,unkown,unkown,indoor,writing with arms on desk,writing
+arms rested on the desk-unlabelled-wear on,unkown,unkown,unkown,indoor, with arms on desk,arms on desk
+city-story-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-story-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+story-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+dominant hand-mbta-non-dominant hand-standing-unlabelled,upright,sedentary,sedentary,indoor,standing naturally,free
+city-standing-stop light-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-stop light-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+city-stop light-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+story-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+standing-story-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-story-unlabelled-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+arms rested on the desk-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with arms on desk,arms on desk
+2 mph-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph,free
+dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+bag-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with bag,free
+3.5 mph-bag-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3.5 mph-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-dominant hand-drink-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3.5 mph-dominant hand-drink-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3.5 mph-dominant hand-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-phone-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-dominant hand-phone-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-dominant hand-phone-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+dominant hand-phone-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and using phone,holding cellphone
+3 mph-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-flat grade-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+flat grade-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,unkown,unkown
+flat grade-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+standing-still-unlabelled-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,still
+arms rested on the desk-sitting-unlabelled-unlabelled-wear on-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+unlabelled-unlabelled-wear on-writing,unkown,unkown,unkown,unkown,writing,writing
+reclining-sitting-unlabelled-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining,free
+standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-unlabelled-unlabelled-wear on-web browsing,upright,sedentary,sedentary,unkown,standing and web browsing,free
+arms rested on the desk-standing-unlabelled-unlabelled-wear on-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+arms rested on the desk-unlabelled-unlabelled-wear on-web browsing,unkown,unkown,unkown,indoor,web browsing with arms on desk,arms on desk
+shelf unload-standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-standing-unlabelled-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf reload-unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+elevator-standing-unlabelled-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator,free
+down-elevator-standing-unlabelled-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator down,free
+down-unlabelled-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+unlabelled-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+outdoors-unlabelled-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-story-unlabelled-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+story-unlabelled-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+escalator-unlabelled-unlabelled,upright,unkown,unkown,indoor,escalator,free
+escalator-standing-unlabelled-unlabelled,upright,sedentary,sedentary,indoor,standing and escalator,free
+escalator-standing-unlabelled-unlabelled-up,upright,sedentary,sedentary,indoor,standing and escalator up,free
+escalator-unlabelled-unlabelled-up,upright,unkown,unkown,indoor,escalator up,free
+down-stairs-unlabelled-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+outdoors-story-unlabelled-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+mbta-standing-unlabelled-unlabelled,upright,sedentary,sedentary,indoor,standing naturally,free
+mbta-standing-story-unlabelled-unlabelled,upright,sedentary,sedentary,indoor,standing naturally,free
+outdoors-phone-unlabelled-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+standing-unlabelled-unlabelled-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+frisbee-unlabelled-unlabelled,upright,others,others,unkown,frisbee,frisbee
+outdoors-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+stairs-unlabelled-unlabelled-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+stairs-unlabelled-unlabelled-up-wear on,upright,ambulation,ambulation,indoor,escalator,free
+stairs-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+bag-down-stairs-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,walking down stairs with bag,free
+bag-down-unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown, with bag,free
+biking-unlabelled-unlabelled-wear on,sitting,cycling,cycling,unkown,biking,biking
+biking-outdoors-unlabelled-unlabelled-wear on,sitting,cycling,cycling,outdoor,biking outdoor,biking
+elevator-standing-unlabelled-unlabelled-up-wear on,upright,sedentary,sedentary,indoor,standing and elevator up,free
+lying-unlabelled-unlabelled,lying,sedentary,sleep,indoor,unkown,still
+sitting-still-unlabelled-unlabelled,sitting,sedentary,sedentary,unkown,sitting still,still
+reclining-sitting-unlabelled-unlabelled,sitting,sedentary,sedentary,unkown,sitting and reclining,free
+reclining-sitting-texting-unlabelled-unlabelled,sitting,sedentary,sedentary,unkown,sitting and reclining and texting,using phone
+reclining-unlabelled-unlabelled,sitting,unkown,unkown,unkown,reclining,free
+biking-stationary-unlabelled-unlabelled-wear on,sitting,cycling,cycling,indoor,stationary biking,biking
+300 kpm/min-biking-stationary-unlabelled-unlabelled-wear on,sitting,cycling,cycling,indoor,biking outdoor and stationary biking,biking
+300 kpm/min-unlabelled-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+sweeping-unlabelled-unlabelled,upright,others,others,indoor,sweeping,sweeping
+laundry-standing-unlabelled-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,laundry
+laundry-unlabelled-unlabelled,unkown,unkown,unkown,unkown,unkown,laundry
+1 mph-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+1 mph-arms rested on the desk-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on the desk-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+arms rested on the desk-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with arms on desk,arms on desk
+2 mph-arms rested on the desk-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+2 mph-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+3 mph-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-drink-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant hand-drink-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant hand-drink-treadmill-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+drink-treadmill-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,unkown,carrying a drink
+3 mph-bag-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-treadmill-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-phone-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-dominant hand-phone-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-dominant hand-phone-treadmill-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-phone-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-story-treadmill-unlabelled-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+5% grade-5.5 mph-jog/running-treadmill-unlabelled-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5% grade-5.5 mph-treadmill-unlabelled-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+arms rested on the desk-dominant hand-sitting-unlabelled-wear on-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+arms rested on the desk-dominant hand-sitting-unlabelled-wear on,sitting,sedentary,sedentary,indoor,sitting with arms on desk,arms on desk
+arms rested on the desk-unlabelled-wear on-web browsing,unkown,unkown,unkown,indoor,web browsing with arms on desk,arms on desk
+arms rested on the desk-standing-unlabelled,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+arms rested on the desk-standing-unlabelled-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+arms rested on the desk-dominant hand-standing-unlabelled-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+arms rested on the desk-dominant hand-standing-story-unlabelled-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+arms rested on the desk-standing-story-unlabelled-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+standing-story-unlabelled-writing,upright,sedentary,sedentary,unkown,standing and writing,writing
+arms rested on the desk-standing-unlabelled-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+arms rested on the desk-unlabelled-web browsing,unkown,unkown,unkown,indoor,web browsing with arms on desk,arms on desk
+city-outdoors-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-texting-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+city-outdoors-story-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-story-unlabelled-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+city-story-unlabelled-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+story-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+escalator-story-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+escalator-story-unlabelled-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator up,free
+escalator-story-unlabelled-up-wear on,upright,unkown,unkown,indoor,escalator up,free
+escalator-standing-story-unlabelled-up-wear on,upright,sedentary,sedentary,indoor,standing and escalator up,free
+standing-story-unlabelled-up-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+standing-story-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+stairs-story-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+down-stairs-story-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,walking down stairs,free
+down-story-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+city-outdoors-standing-story-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-standing-story-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+standing-story-unlabelled-waiting-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+outdoors-standing-story-unlabelled-waiting-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-standing-story-unlabelled-waiting-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-standing-unlabelled-waiting-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-standing-texting-unlabelled-waiting-wear on,upright,sedentary,sedentary,outdoor,standing and texting,using phone
+city-outdoors-phone-standing-texting-unlabelled-waiting-wear on,upright,sedentary,sedentary,outdoor,standing and texting and using phone,holding cellphone
+city-outdoors-phone-standing-unlabelled-waiting-wear on,upright,sedentary,sedentary,outdoor,standing and using phone,holding cellphone
+city-outdoors-standing-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-standing-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-unlabelled-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+mbta-sitting-unlabelled-wear on,sitting,sedentary,sedentary,indoor,sitting still,free
+mbta-unlabelled-wear on,unkown,unkown,unkown,indoor,unkown,unkown
+city-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-stop light-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+frisbee-outdoors-unlabelled-wear on,upright,others,others,outdoor,frisbee,frisbee
+unlabelled-vending machine-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and using vending machine,using vending machine
+bag-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-elevator-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing and elevator with bag,free
+bag-down-elevator-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing and elevator down with bag,free
+bag-down-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-down-unlabelled-wear on,unkown,unkown,unkown,unkown, with bag,free
+bag-unlabelled-up-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+3.5 mph-drink-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3.5 mph-5% grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-5% grade-5.5 mph-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+unlabelled-wear on-writing,unkown,unkown,unkown,unkown,writing,writing
+unlabelled-wear on-web browsing,unkown,unkown,unkown,unkown,web browsing,free
+outdoors-story-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+standing-story-unlabelled-waiting,upright,sedentary,sedentary,unkown,standing naturally,free
+story-unlabelled-waiting,unkown,sedentary,sedentary,unkown,unkown,unkown
+outdoors-phone-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+down-stairs-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,walking down stairs,free
+bag-down-stairs-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,walking down stairs with bag,free
+300 kpm/min-stationary-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+2 mph-arms rested on the desk-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+dominant hand-drink-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,carrying a drink
+3 mph-dominant hand-phone-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+dominant hand-phone-unlabelled-wear on,unkown,unkown,unkown,unkown,using phone,holding cellphone
+sitting-wear on-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+standing-wear on-web browsing,upright,sedentary,sedentary,unkown,standing and web browsing,free
+elevator-standing-wear on,upright,sedentary,sedentary,indoor,standing and elevator,free
+down-elevator-standing-wear on,upright,sedentary,sedentary,indoor,standing and elevator down,free
+down-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+outdoors-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-story-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-story-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+escalator-standing-up-wear on,upright,sedentary,sedentary,indoor,standing and escalator up,free
+standing-up-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+down-stairs-walking-wear on,upright,ambulation,ambulation,indoor,walking down stairs,free
+stairs-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+story-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+outdoors-standing-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-standing-waiting-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-waiting-wear on,unkown,sedentary,sedentary,outdoor,unkown,unkown
+mbta-wear on,unkown,unkown,unkown,indoor,unkown,unkown
+outdoors-phone-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+outdoors-texting-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+standing-vending machine-wear on,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+frisbee-wear on,upright,others,others,unkown,frisbee,frisbee
+stairs-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+stairs-texting-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and texting and escalator,using phone
+up-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+bag-down,unkown,unkown,unkown,unkown, with bag,free
+shelf unload-standing-wear on,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+shelf unload-wear on,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+lying-still-wear on,lying,sedentary,sleep,indoor,unkown,still
+sitting-still-wear on,sitting,sedentary,sedentary,unkown,sitting still,still
+still-wear on,unkown,sedentary,sedentary,unkown,unkown,still
+reclining-wear on,sitting,unkown,unkown,unkown,reclining,free
+1 mph-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+1 mph-arms rested on the desk-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on the desk-treadmill-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+2 mph-arms rested on the desk-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3 mph-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-drink-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant hand-drink-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-dominant hand-drink-treadmill-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+drink-wear on,unkown,unkown,unkown,unkown,unkown,carrying a drink
+3 mph-bag-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-bag-dominant hand-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-phone-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-dominant hand-phone-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-dominant hand-phone-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+dominant hand-phone-wear on,unkown,unkown,unkown,unkown,using phone,holding cellphone
+3.5 mph-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,free
+jog/running-wear on,upright,ambulation,ambulation,unkown,running,free
+jog/running-treadmill-wear on,upright,ambulation,ambulation,indoor,running,free
+5% grade-5.5 mph-jog/running-treadmill-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+mix of things,unkown,unkown,unkown,unkown,unkown,unkown
+mix of things-standing,upright,sedentary,sedentary,unkown,standing naturally,free
+mix of things-standing-still,upright,sedentary,sedentary,unkown,standing naturally,still
+mix of things-still,unkown,sedentary,sedentary,unkown,unkown,still
+jumping jacks-mix of things-still,upright,sedentary,sedentary,unkown,jumping jacks,jumping jacks
+jumping jacks-mix of things,upright,others,others,unkown,jumping jacks,jumping jacks
+mix of things-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+mix of things-standing-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+mix of things-standing-wear on-writing,upright,sedentary,sedentary,unkown,standing and writing,writing
+arms rested on the desk-mix of things-standing-wear on-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+arms rested on the desk-mix of things-standing-wear on,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+arms rested on the desk-mix of things-standing-wear on-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+arms rested on the desk-mix of things-standing-story-wear on-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+arms rested on the desk-mix of things-standing-story-wear on,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+mix of things-sitting-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+arms rested on the desk-mix of things-sitting-wear on,sitting,sedentary,sedentary,indoor,sitting with arms on desk,arms on desk
+arms rested on the desk-mix of things-sitting-wear on-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+arms rested on the desk-dominant hand-mix of things-sitting-wear on-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+arms rested on the desk-dominant hand-mix of things-sitting-texting-wear on-writing,sitting,sedentary,sedentary,indoor,sitting and writing and texting with arms on desk,writing
+arms rested on the desk-dominant hand-mix of things-sitting-texting-wear on,sitting,sedentary,sedentary,indoor,sitting and texting with arms on desk,arms on desk
+arms rested on the desk-mix of things-sitting-texting-wear on,sitting,sedentary,sedentary,indoor,sitting and texting with arms on desk,arms on desk
+mix of things-sitting-texting-wear on,sitting,sedentary,sedentary,unkown,sitting and texting,using phone
+mix of things-sitting-texting-wear on-web browsing,sitting,sedentary,sedentary,unkown,sitting and texting and web browsing,using phone
+mix of things-sitting-wear on-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing,free
+arms rested on the desk-mix of things-sitting-wear on-web browsing,sitting,sedentary,sedentary,indoor,sitting and web browsing with arms on desk,arms on desk
+arms rested on the desk-mix of things-sitting-texting-wear on-web browsing,sitting,sedentary,sedentary,indoor,sitting and texting and web browsing with arms on desk,arms on desk
+mix of things-shelf unload-standing-wear on,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+mix of things-shelf unload-wear on,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+mix of things-shelf reload-standing-wear on,upright,sedentary,sedentary,unkown,standing and shelf loading or unloading,shelf loading or unloading
+mix of things-shelf reload-wear on,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+mix of things-texting,unkown,sedentary,sedentary,unkown,texting,using phone
+mix of things-texting-walking,upright,ambulation,ambulation,unkown,self-paced walking and texting,using phone
+mix of things-standing-texting,upright,sedentary,sedentary,unkown,standing and texting,using phone
+jumping-mix of things-texting,upright,sedentary,sedentary,unkown,texting,using phone
+escalator-mix of things-standing,upright,sedentary,sedentary,indoor,standing and escalator,free
+elevator-mix of things-standing,upright,sedentary,sedentary,indoor,standing and elevator,free
+down-elevator-mix of things-standing,upright,sedentary,sedentary,indoor,standing and elevator down,free
+down-elevator-mix of things-standing-texting,upright,sedentary,sedentary,indoor,standing and elevator down and texting,using phone
+mix of things-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+mix of things-outdoors-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-mix of things-outdoors-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-mix of things-outdoors-story-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-mix of things-story-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+mix of things-story-walking,upright,ambulation,ambulation,unkown,self-paced walking,free
+mix of things-standing-vending machine,upright,sedentary,sedentary,unkown,standing and using vending machine,using vending machine
+mix of things-vending machine,upright,unkown,unkown,unkown,using vending machine,using vending machine
+city-mix of things-outdoors-texting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+city-mix of things-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+escalator-mix of things-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+escalator-mix of things,upright,unkown,unkown,indoor,escalator,free
+escalator-mix of things-standing-up,upright,sedentary,sedentary,indoor,standing and escalator up,free
+escalator-mix of things-standing-texting-up,upright,sedentary,sedentary,indoor,standing and escalator up and texting,using phone
+mix of things-stairs-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+mix of things-stairs-still-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,still
+down-mix of things-stairs-still-walking,upright,ambulation,ambulation,indoor,walking down stairs,still
+down-mix of things-stairs-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+city-mix of things-texting-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+city-mix of things-outdoors,unkown,unkown,unkown,outdoor,unkown,unkown
+city-mix of things-outdoors-standing,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-mix of things-outdoors-standing-waiting,upright,sedentary,sedentary,outdoor,standing naturally,free
+mbta-mix of things,unkown,unkown,unkown,indoor,unkown,unkown
+mbta-mix of things-sitting,sitting,sedentary,sedentary,indoor,sitting still,free
+mbta-mix of things-sitting-texting,sitting,sedentary,sedentary,indoor,sitting and texting,using phone
+mbta-mix of things-sitting-texting-web browsing,sitting,sedentary,sedentary,indoor,sitting and texting and web browsing,using phone
+mix of things-sitting,sitting,sedentary,sedentary,unkown,sitting still,free
+mix of things-standing-stop light,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-mix of things-standing-stop light,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-mix of things-outdoors-standing-stop light,upright,sedentary,sedentary,outdoor,standing naturally,free
+elevator-mix of things-standing-up,upright,sedentary,sedentary,indoor,standing and elevator up,free
+mix of things-standing-up,upright,sedentary,sedentary,unkown,standing naturally,free
+biking-mix of things-wear on,sitting,cycling,cycling,unkown,biking,biking
+biking-mix of things-outdoors-wear on,sitting,cycling,cycling,outdoor,biking outdoor,biking
+biking-city-mix of things-outdoors-wear on,sitting,cycling,cycling,outdoor,biking outdoor,biking
+biking-city-mix of things-wear on,sitting,cycling,cycling,outdoor,biking,biking
+city-mix of things-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+frisbee-mix of things-wear on,upright,others,others,unkown,frisbee,frisbee
+frisbee-jog/running-mix of things-wear on,upright,ambulation,ambulation,unkown,running and frisbee,frisbee
+jog/running-mix of things-wear on,upright,ambulation,ambulation,unkown,running,free
+mix of things-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+mix of things-stairs-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+mix of things-stairs-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+bag-mix of things-stairs-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+lying-mix of things,lying,sedentary,sleep,indoor,unkown,still
+mix of things-sitting-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing,free
+mix of things-reclining-sitting-web browsing,sitting,sedentary,sedentary,unkown,sitting and reclining and web browsing,free
+biking-mix of things,sitting,cycling,cycling,unkown,biking,biking
+biking-mix of things-stationary,sitting,cycling,cycling,indoor,stationary biking,biking
+300 kpm/min-biking-mix of things-stationary,sitting,cycling,cycling,indoor,biking outdoor and stationary biking,biking
+mix of things-treadmill-walking,upright,ambulation,ambulation,indoor,self-paced walking,free
+1 mph-mix of things-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+1 mph-arms rested on the desk-mix of things-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-arms rested on the desk-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+arms rested on the desk-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with arms on desk,arms on desk
+mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+2 mph-arms rested on the desk-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3 mph-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-drink-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-drink-mix of things-sweeping-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph and sweeping,carrying a drink
+bag-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with bag,free
+3 mph-bag-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+jog/running-mix of things-treadmill-wear on,upright,ambulation,ambulation,indoor,running,free
+5.5 mph-jog/running-mix of things-treadmill-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5% grade-5.5 mph-jog/running-mix of things-treadmill-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+3.5 mph-mix of things-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-mix of things-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+mix of things-sweeping-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and sweeping,sweeping
+laundry-mix of things-standing,upright,sedentary,sedentary,unkown,standing naturally,laundry
+mix of things-waiting,unkown,sedentary,sedentary,unkown,unkown,unkown
+eating/drinking (sitting),sitting,sedentary,sedentary,unkown,sitting still,carrying a drink
+jumping jacks-still,upright,sedentary,sedentary,unkown,jumping jacks,jumping jacks
+arms rested on the desk-sitting-wear on-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+arms rested on the desk-sitting-wear on,sitting,sedentary,sedentary,indoor,sitting with arms on desk,arms on desk
+arms rested on the desk-wear on,unkown,unkown,unkown,indoor, with arms on desk,arms on desk
+arms rested on the desk-standing-wear on,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+arms rested on the desk-standing-wear on-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+arms rested on the desk-wear on-writing,unkown,unkown,unkown,indoor,writing with arms on desk,writing
+wear on-writing,unkown,unkown,unkown,unkown,writing,writing
+arms rested on the desk-standing-wear on-web browsing,upright,sedentary,sedentary,indoor,standing and web browsing with arms on desk,arms on desk
+arms rested on the desk-wear on-web browsing,unkown,unkown,unkown,indoor,web browsing with arms on desk,arms on desk
+wear on-web browsing,unkown,unkown,unkown,unkown,web browsing,free
+sitting-wear on-web browsing,sitting,sedentary,sedentary,unkown,sitting and web browsing,free
+standing-sweeping-walking,upright,ambulation,ambulation,indoor,self-paced walking and standing and sweeping,sweeping
+1 mph-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph,free
+arms rested on the desk-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking with arms on desk,arms on desk
+drink-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,carrying a drink
+3.5 mph-drink-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3.5 mph-bag-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3 mph-story-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+biking-stationary-wear on,sitting,cycling,cycling,indoor,stationary biking,biking
+300 kpm/min-biking-stationary-wear on,sitting,cycling,cycling,indoor,biking outdoor and stationary biking,biking
+bag-dominant hand-stairs-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator with bag,free
+bag-dominant hand-up-walking,upright,ambulation,ambulation,unkown,self-paced walking with bag,free
+dominant hand-laundry-standing-unlabelled,upright,sedentary,sedentary,unkown,standing naturally,laundry
+stationary-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+1 mph-arms rested on the desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+arms rested on the desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking with arms on desk,arms on desk
+3.5 mph-drink-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+arms rested on the desk-sitting-wear on-web browsing,sitting,sedentary,sedentary,indoor,sitting and web browsing with arms on desk,arms on desk
+reclining-sitting-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining,free
+city-outdoors-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-story-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-story-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+city-outdoors-sitting-story-wear on,sitting,sedentary,sedentary,outdoor,sitting still,free
+city-outdoors-sitting-wear on,sitting,sedentary,sedentary,outdoor,sitting still,free
+city-outdoors-sitting-waiting-wear on,sitting,sedentary,sedentary,outdoor,sitting still,free
+city-sitting-wear on,sitting,sedentary,sedentary,outdoor,sitting still,free
+mbta-sitting-wear on,sitting,sedentary,sedentary,indoor,sitting still,free
+mbta-sitting-texting-wear on,sitting,sedentary,sedentary,indoor,sitting and texting,using phone
+city-outdoors-stop light-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-stop light-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+city-outdoors-standing-stop light-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-standing-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-standing-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+biking-city-outdoors,sitting,cycling,cycling,outdoor,biking outdoor,biking
+bag-down-elevator-standing,upright,sedentary,sedentary,indoor,standing and elevator down with bag,free
+sitting-texting,sitting,sedentary,sedentary,unkown,sitting and texting,using phone
+phone-reclining-sitting-texting,sitting,sedentary,sedentary,unkown,sitting and reclining and texting and using phone,holding cellphone
+phone-reclining-sitting,sitting,sedentary,sedentary,unkown,sitting and reclining and using phone,holding cellphone
+300 kpm/min-biking-stationary-texting,sitting,cycling,cycling,indoor,biking outdoor and stationary biking and texting,biking
+1 mph-arms rested on the desk-flat grade-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+2 mph-arms rested on the desk-flat grade-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3.5 mph-bag-dominant hand-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3.5 mph-dominant hand-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+dominant hand-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+dominant hand-treadmill-wear on,upright,unkown,unkown,indoor,unkown,unkown
+dominant hand-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+arms rested on the desk-sitting-unlabelled-writing,sitting,sedentary,sedentary,indoor,sitting and writing with arms on desk,writing
+elevator-sitting-unlabelled-wear on,sitting,sedentary,sedentary,indoor,sitting and elevator,free
+down-elevator-sitting-unlabelled-wear on,sitting,sedentary,sedentary,indoor,sitting and elevator down,free
+outdoors-story-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+unlabelled-up-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+standing-stop light-unlabelled-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-standing-unlabelled-waiting-wear on,upright,sedentary,sedentary,outdoor,standing naturally,free
+outdoors-sitting-unlabelled-waiting-wear on,sitting,sedentary,sedentary,outdoor,sitting still,free
+outdoors-unlabelled-waiting-wear on,unkown,sedentary,sedentary,outdoor,unkown,unkown
+biking-outdoors-wear on,sitting,cycling,cycling,outdoor,biking outdoor,biking
+elevator-standing-up-wear on,upright,sedentary,sedentary,indoor,standing and elevator up,free
+elevator-up-wear on,upright,sedentary,sedentary,indoor,elevator up,free
+lying-still,lying,sedentary,sleep,indoor,unkown,still
+texting,unkown,sedentary,sedentary,unkown,texting,using phone
+1 mph-arms rested on the desk-treadmill-walking,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+arms rested on the desk-treadmill,upright,unkown,unkown,indoor, with arms on desk,arms on desk
+2 mph-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph,free
+3 mph-dominant hand-treadmill-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3 mph-dominant hand-non-dominant hand-phone-treadmill-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-non-dominant hand-phone-treadmill-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+3 mph-phone-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+5% grade-5.5 mph-wear on,upright,unkown,unkown,indoor,treadmill running at 5.5 mph,free
+arms rested on the desk-sitting-unlabelled,sitting,sedentary,sedentary,indoor,sitting with arms on desk,arms on desk
+arms rested on the desk-unlabelled-writing,unkown,unkown,unkown,indoor,writing with arms on desk,writing
+outdoors-story-unlabelled-waiting-wear on,unkown,sedentary,sedentary,outdoor,unkown,unkown
+story-unlabelled-waiting-wear on,unkown,sedentary,sedentary,unkown,unkown,unkown
+stairs-unlabelled-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+stairs-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+lying-still-unlabelled-wear on,lying,sedentary,sleep,indoor,unkown,still
+300 kpm/min-stationary-unlabelled,unkown,unkown,unkown,unkown,unkown,unkown
+standing-treadmill-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing naturally,free
+2 mph-standing-treadmill-unlabelled-wear on,upright,sedentary,sedentary,indoor,treadmill walking at 2 mph and standing,free
+2 mph-arms rested on the desk-standing-treadmill-unlabelled-wear on,upright,sedentary,sedentary,indoor,treadmill walking at 2 mph and standing with arms on desk,arms on desk
+2 mph-arms rested on the desk-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+bag-dominant hand-unlabelled-wear on,unkown,unkown,unkown,unkown, with bag,free
+3 mph-dominant hand-phone-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph and using phone,holding cellphone
+phone-unlabelled-wear on,unkown,unkown,unkown,unkown,using phone,holding cellphone
+city-outdoors-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-standing-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+city-outdoors-stop light-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+city-outdoors-stop light-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+city-outdoors-standing-stop light-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-standing-stop light-story-unlabelled,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-unlabelled,unkown,unkown,unkown,outdoor,unkown,unkown
+city-outdoors-standing-unlabelled-waiting,upright,sedentary,sedentary,outdoor,standing naturally,free
+city-outdoors-standing-texting-unlabelled-waiting,upright,sedentary,sedentary,outdoor,standing and texting,using phone
+laundry-phone-standing-unlabelled,upright,sedentary,sedentary,unkown,standing and using phone,holding cellphone
+phone-standing-unlabelled,upright,sedentary,sedentary,unkown,standing and using phone,holding cellphone
+arms rested on the desk-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor, with arms on desk,arms on desk
+3.5 mph-bag-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag,free
+3.5 mph-bag-dominant hand-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph with bag,free
+3.5 mph-dominant hand-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph,free
+non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,self-paced walking,free
+5% grade-5.5 mph-jog/running-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+5% grade-jog/running-unlabelled-wear on,upright,ambulation,ambulation,unkown,running,free
+phone-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and using phone,holding cellphone
+phone-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and using phone,holding cellphone
+dominant hand-phone-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and using phone,holding cellphone
+dominant hand-jog/running-phone-unlabelled-wear on,upright,ambulation,ambulation,unkown,running and using phone,holding cellphone
+dominant hand-standing-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+phone-sitting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and using phone,holding cellphone
+city-frisbee-outdoors-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and frisbee,frisbee
+city-frisbee-outdoors-unlabelled,upright,others,others,outdoor,frisbee,frisbee
+city-outdoors-phone-texting-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and texting and using phone,holding cellphone
+city-outdoors-phone-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+city-phone-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+phone-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and using phone,holding cellphone
+city-outdoors-texting-unlabelled-waiting,unkown,sedentary,sedentary,outdoor,texting,using phone
+city-outdoors-sitting-texting-unlabelled-waiting,sitting,sedentary,sedentary,outdoor,sitting and texting,using phone
+city-outdoors-sitting-story-texting-unlabelled-waiting,sitting,sedentary,sedentary,outdoor,sitting and texting,using phone
+city-outdoors-sitting-story-unlabelled-waiting,sitting,sedentary,sedentary,outdoor,sitting still,free
+city-outdoors-phone-sitting-story-unlabelled-waiting,sitting,sedentary,sedentary,outdoor,sitting and using phone,holding cellphone
+city-outdoors-phone-sitting-unlabelled-waiting,sitting,sedentary,sedentary,outdoor,sitting and using phone,holding cellphone
+city-outdoors-phone-sitting-texting-unlabelled-waiting,sitting,sedentary,sedentary,outdoor,sitting and texting and using phone,holding cellphone
+mbta-phone-standing-unlabelled,upright,sedentary,sedentary,indoor,standing and using phone,holding cellphone
+mbta-phone-unlabelled,unkown,unkown,unkown,indoor,using phone,holding cellphone
+mbta-phone-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and using phone,holding cellphone
+biking-city-outdoors-unlabelled,sitting,cycling,cycling,outdoor,biking outdoor,biking
+escalator-standing-texting-unlabelled,upright,sedentary,sedentary,indoor,standing and texting and escalator,using phone
+elevator-standing-texting-unlabelled,upright,sedentary,sedentary,indoor,standing and texting and elevator,using phone
+bag-down-elevator-standing-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator down with bag,free
+bag-down-elevator-standing-texting-unlabelled,upright,sedentary,sedentary,indoor,standing and elevator down and texting with bag,using phone
+sweeping-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and sweeping,sweeping
+stationary-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+2 mph-arms rested on the desk-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+arms rested on the desk-unlabelled,unkown,unkown,unkown,indoor, with arms on desk,arms on desk
+escalator-unlabelled-up-wear on,upright,unkown,unkown,indoor,escalator up,free
+stop light-unlabelled-wear on,unkown,unkown,unkown,outdoor,unkown,unkown
+dominant hand-outdoors-phone-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and using phone,holding cellphone
+dominant hand-outdoors-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking,free
+300 kpm/min-unlabelled-wear on,unkown,unkown,unkown,unkown,unkown,unkown
+1 mph-arms rested on the desk-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+1 mph-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 1 mph,free
+2 mph-arms rested on the desk-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+3 mph-dominant hand-drink-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3 mph-bag-dominant hand-unlabelled-wear on,upright,unkown,unkown,indoor,treadmill walking at 3-3.5 mph with bag,free
+shelf unload-unlabelled-wear on,unkown,unkown,unkown,unkown,shelf loading or unloading,shelf loading or unloading
+2 mph-arms rested on the desk-treadmill-unlabelled-walking,upright,ambulation,ambulation,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+2 mph-arms rested on the desk-unlabelled,upright,unkown,unkown,indoor,treadmill walking at 2 mph with arms on desk,arms on desk
+300 kpm/min-5.5 mph-jog/running-treadmill-unlabelled-wear on,upright,ambulation,ambulation,indoor,treadmill running at 5.5 mph,free
+down-stairs-story-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+down-stairs-story-unlabelled,upright,ambulation,ambulation,indoor,walking down stairs,free
+sitting-unlabelled-waiting-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+mbta-standing-story-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing naturally,free
+dominant hand-outdoors-phone-unlabelled-wear on,unkown,unkown,unkown,outdoor,using phone,holding cellphone
+dominant hand-sitting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting still,free
+arms rested on the desk-dominant hand-standing-unlabelled-wear on-writing,upright,sedentary,sedentary,indoor,standing and writing with arms on desk,writing
+arms rested on the desk-dominant hand-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing with arms on desk,arms on desk
+drink-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,carrying a drink
+drink-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,carrying a drink
+arms rested on the desk-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,self-paced walking with arms on desk,arms on desk
+arms rested on the desk-dominant hand-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,self-paced walking with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-dominant hand-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-bag-dominant hand-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph with bag with arms on desk,arms on desk
+3 mph-arms rested on the desk-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+standing-sweeping-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing and sweeping,sweeping
+waiting (sitting),sitting,sedentary,sedentary,unkown,sitting still,free
+phone-reclining-sitting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining and using phone,holding cellphone
+phone-reclining-sitting-texting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,sitting and reclining and texting and using phone,holding cellphone
+phone-reclining-texting-unlabelled-wear on,sitting,sedentary,sedentary,unkown,reclining and texting and using phone,holding cellphone
+dominant hand-standing-unlabelled-wear on-writing,upright,sedentary,sedentary,unkown,standing and writing,writing
+frisbee-outdoors-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and frisbee,frisbee
+outdoors-texting-unlabelled-walking-wear on,upright,ambulation,ambulation,outdoor,self-paced walking and texting,using phone
+escalator-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+down-stairs-standing-unlabelled,upright,ambulation,ambulation,indoor,walking down stairs and standing,free
+dominant hand-mbta-standing-texting-unlabelled,upright,sedentary,sedentary,indoor,standing and texting,using phone
+dominant hand-mbta-non-dominant hand-standing-texting-unlabelled,upright,sedentary,sedentary,indoor,standing and texting,using phone
+dominant hand-non-dominant hand-texting-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and texting,using phone
+outdoors-stairs-unlabelled-up-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+outdoors-unlabelled-up-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+outdoors-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,self-paced walking and escalator,free
+down-outdoors-stairs-unlabelled-walking,upright,ambulation,ambulation,indoor,walking down stairs,free
+down-outdoors-unlabelled-walking,upright,ambulation,ambulation,outdoor,self-paced walking,free
+bag-sitting-stairs-unlabelled-up-wear on,sitting,ambulation,ambulation,indoor,sitting and escalator with bag,free
+bag-stairs-texting-unlabelled-up-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking and texting and escalator with bag,using phone
+bag-texting-unlabelled-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and texting with bag,using phone
+1 mph-arms rested on the desk-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 1 mph with arms on desk,arms on desk
+arms rested on the desk-flat grade-treadmill-unlabelled-wear on,upright,unkown,unkown,indoor, with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-drink-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-drink-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-dominant hand-drink-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-bag-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-bag-dominant hand-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with bag with arms on desk,arms on desk
+3.5 mph-arms rested on the desk-dominant hand-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph with arms on desk,arms on desk
+using computer/tablet (sitting),sitting,sedentary,sedentary,indoor,sitting still,arms on desk
+dominant hand-sitting-unlabelled-wear on-writing,sitting,sedentary,sedentary,unkown,sitting and writing,writing
+mbta-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+dominant hand-mbta-standing-unlabelled-wear on,upright,sedentary,sedentary,indoor,standing naturally,free
+dominant hand-mbta-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,self-paced walking,free
+dominant hand-mbta-unlabelled-wear on,unkown,unkown,unkown,indoor,unkown,unkown
+standing-unlabelled-waiting-wear on,upright,sedentary,sedentary,unkown,standing naturally,free
+unlabelled-waiting-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking,free
+frisbee-unlabelled-walking,upright,ambulation,ambulation,unkown,self-paced walking and frisbee,frisbee
+bag-standing-unlabelled-waiting-wear on,upright,sedentary,sedentary,unkown,standing with bag,free
+bag-standing-texting-unlabelled-waiting-wear on,upright,sedentary,sedentary,unkown,standing and texting with bag,using phone
+bag-texting-unlabelled-waiting-walking-wear on,upright,ambulation,ambulation,unkown,self-paced walking and texting with bag,using phone
+bag-standing-texting-unlabelled-wear on,upright,sedentary,sedentary,unkown,standing and texting with bag,using phone
+3.5 mph-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-drink-flat grade-treadmill-unlabelled-walking-wear on,upright,ambulation,ambulation,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3.5 mph-drink-flat grade-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph,carrying a drink
+3.5 mph-flat grade-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph,free
+3.5 mph-bag-flat grade-non-dominant hand-treadmill-unlabelled-walking-wear on,upright,ambulation,unwear,indoor,treadmill walking at 3-3.5 mph with bag,free
+3.5 mph-bag-flat grade-non-dominant hand-treadmill-unlabelled-wear on,upright,unkown,unwear,indoor,treadmill walking at 3-3.5 mph with bag,free

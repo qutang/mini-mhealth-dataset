@@ -1,0 +1,11 @@
+PID,SENSOR_ID,SENSOR_LCOATION,X,Y,Z
+SPADES_1,TAS1E23150084,dominant waist,-X,-Y,Z
+SPADES_2,TAS1E23150128,dominant ankle,-X,-Y,Z
+SPADES_2,TAS1E23150066,non dominant wrist,-X,-Y,Z
+SPADES_3,TAS1E23150167,non dominant ankle,-X,-Y,Z
+SPADES_4,TAS1E23150075,non dominant waist,-X,-Y,Z
+SPADES_4,TAS1E23150085,dominant ankle,-X,Y,-Z
+SPADES_4,TAS1E23150162,non dominant ankle,X,-Y,-Z
+SPADES_4,TAS1E23150175,non dominant wrist,-Y,X,Z
+SPADES_7,TAS1E23150162,non dominant ankle,-X,Y,-Z
+SPADES_7,TAS1E23150152,dominant ankle,-X,-Y,Z

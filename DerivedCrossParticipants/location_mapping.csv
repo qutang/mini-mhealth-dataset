@@ -1,0 +1,42 @@
+PID,SENSOR_ID,LOCATION
+SPADES_1,TAS1E23150126,dominant ankle
+SPADES_1,TAS1E23150084,dominant waist
+SPADES_1,TAS1E23150066,dominant thigh
+SPADES_1,TAS1E23150108,dominant wrist
+SPADES_1,TAS1E23150175,non dominant ankle
+SPADES_1,TAS1E23150075,non dominant wrist
+SPADES_1,TAS1E23150085,non dominant waist
+SPADES_2,TAS1E23150128,dominant ankle
+SPADES_2,TAS1E23150108,dominant thigh
+SPADES_2,TAS1E23150141,dominant wrist
+SPADES_2,TAS1E23150167,non dominant ankle
+SPADES_2,TAS1E23150162,non dominant waist
+SPADES_2,TAS1E23150066,non dominant wrist
+SPADES_3,TAS1E23150141,dominant ankle
+SPADES_3,TAS1E23150128,dominant waist
+SPADES_3,TAS1E23150162,dominant thigh
+SPADES_3,TAS1E23150066,dominant wrist
+SPADES_3,TAS1E23150167,non dominant ankle
+SPADES_3,TAS1E23150139,non dominant waist
+SPADES_3,TAS1E23150108,non dominant wrist
+SPADES_4,TAS1E23150085,dominant ankle
+SPADES_4,TAS1E23150084,dominant waist
+SPADES_4,TAS1E23150126,dominant thigh
+SPADES_4,TAS1E23150066,dominant wrist
+SPADES_4,TAS1E23150162,non dominant ankle
+SPADES_4,TAS1E23150075,non dominant waist
+SPADES_4,TAS1E23150175,non dominant wrist
+SPADES_6,TAS1E23150075,dominant ankle
+SPADES_6,TAS1E23150854,dominant waist
+SPADES_6,TAS1E23150126,dominant thigh
+SPADES_6,TAS1E23150875,dominant wrist
+SPADES_6,TAS1E23150084,non dominant ankle
+SPADES_6,TAS1E23150881,non dominant waist
+SPADES_6,TAS1E23150866,non dominant wrist
+SPADES_7,TAS1E23150152,dominant ankle
+SPADES_7,TAS1E23150163,dominant waist
+SPADES_7,TAS1E23150126,dominant thigh
+SPADES_7,TAS1E23150179,dominant wrist
+SPADES_7,TAS1E23150162,non dominant ankle
+SPADES_7,TAS1E23150167,non dominant waist
+SPADES_7,TAS1E23150180,non dominant wrist
