@@ -1,0 +1,182 @@
+ANNOTATION_LABELS,ACTIVITY,POSTURE,ACTIVITY_GROUP,SEDENTARY_AMBULATION_CYCLING
+jumping jacks still,Unknown,Unknown,Unknown,Unknown
+still,Self-selected free standing,Upright,Standing,Others
+sitting still,Sitting still,Sitting,Sitting,Sedentary
+sitting writing,Sitting and writing,Sitting,Sitting,Others
+reclining telling story,Reclining and talking,Sitting,Sitting,Sedentary
+standing telling story,Unknown,Unknown,Unknown,Unknown
+arms on desk standing,Unknown,Unknown,Unknown,Unknown
+arms on desk standing web browsing,Standing and typing on a keyboard,Upright,Standing,Others
+elevator standing walking down,Unknown,Unknown,Unknown,Unknown
+standing telling story walking,Unknown,Unknown,Unknown,Unknown
+standing stop light telling story walking,Unknown,Unknown,Unknown,Unknown
+stop light telling story walking,Unknown,Unknown,Unknown,Unknown
+mbta outdoors standing,Unknown,Unknown,Unknown,Unknown
+walking outdoors,Unknown,Unknown,Unknown,Unknown
+standing outdoors,Unknown,Unknown,Unknown,Unknown
+telling story walking outdoors,Unknown,Unknown,Unknown,Unknown
+biking telling story walking outdoors,Unknown,Unknown,Unknown,Unknown
+biking outdoors,Unknown,Unknown,Unknown,Unknown
+outdoors texting walking outdoors,Unknown,Unknown,Unknown,Unknown
+vending machine walking outdoors,Unknown,Unknown,Unknown,Unknown
+walking,Unknown,Unknown,Unknown,Unknown
+telling story walking,Unknown,Unknown,Unknown,Unknown
+frisbee,Unknown,Unknown,Unknown,Unknown
+standing walking,Unknown,Unknown,Unknown,Unknown
+phone talking stairs up walking up,Unknown,Unknown,Unknown,Unknown
+stairs up walking up,Unknown,Unknown,Unknown,Unknown
+bag drink standing,Unknown,Unknown,Unknown,Unknown
+bag stairs standing,Unknown,Unknown,Unknown,Unknown
+bag down stairs standing walking,Unknown,Unknown,Unknown,Unknown
+bag walking outdoors,Unknown,Unknown,Unknown,Unknown
+bag outdoors walking outdoors,Unknown,Unknown,Unknown,Unknown
+bag outdoors telling story walking,Unknown,Unknown,Unknown,Unknown
+bag standing walking,Unknown,Unknown,Unknown,Unknown
+bag elevator standing up,Unknown,Unknown,Unknown,Unknown
+shelf unload standing,Standing loading/unloading shelf,Upright,Standing,Others
+shelf reload standing,Standing loading/unloading shelf,Upright,Standing,Others
+lying shelf reload standing,Standing loading/unloading shelf,Upright,Standing,Others
+lying,Lying on the back,Lying,Lying,Sedentary
+sitting,Sitting still,Sitting,Sitting,Sedentary
+arms on desk sitting telling story,Sitting and talking,Sitting,Sitting,Sedentary
+arms on desk reclining web browsing,Reclining and using phone,Sitting,Sitting,Sedentary
+biking stationary,Stationary cycle ergometry,Sitting,Biking,Cycling
+biking stationary walking,Stationary cycle ergometry,Sitting,Biking,Cycling
+1 mph arms on desk treadmill walking,Level treadmill walking at 1 mph with arms on desk,Upright,Walking,Ambulation
+2 mph arms on desk treadmill walking,Level treadmill walking at 2 mph with arms on desk,Upright,Walking,Ambulation
+3.5 mph texting treadmill walking,Level treadmill walking at 3-3.5 mph,Upright,Walking,Ambulation
+3 mph bag dominant hand treadmill walking,Level treadmill walking at 3-3.5 mph and carrying a bag,Upright,Walking,Ambulation
+3 mph bag dominant hand jog/running treadmill walking,Level treadmill walking at 3-3.5 mph and carrying a bag,Upright,Walking,Ambulation
+5.5 mph 5%grade jog/running treadmill,Treadmill running at 5.5 mph & 5% grade,Upright,Running,Ambulation
+5.5 mph 5%grade jog/running treadmill walking,Treadmill running at 5.5 mph & 5% grade,Upright,Running,Ambulation
+3 mph phone talking treadmill walking,Level treadmill walking at 3-3.5 mph while holding a phone with dominant arm to the ear and talking,Upright,Walking,Ambulation
+3 mph carrying drinking dominant hand treadmill walking,Level treadmill walking at 3-3.5 mph and carrying a drink,Upright,Walking,Ambulation
+3 mph telling story treadmill walking,Level treadmill walking at 3-3.5 mph while talking,Upright,Walking,Ambulation
+3 mph standing telling story treadmill walking,Level treadmill walking at 3-3.5 mph while talking,Upright,Walking,Ambulation
+laundry standing,Standing and folding towels,Upright,Standing,Others
+standing sweeping,Standing and sweeping,Upright,Standing,Others
+standing sweeping orientationtest,Standing and sweeping,Upright,Standing,Others
+lower body movement orientationtest,Unknown,Unknown,Unknown,Unknown
+orientationtest,Unknown,Unknown,Unknown,Unknown
+still orientationtest,Unknown,Unknown,Unknown,Unknown
+arms on desk dominant hand sitting writing,Sitting and writing,Sitting,Sitting,Others
+arms on desk dominant hand reclining sitting writing,Sitting and writing,Sitting,Sitting,Others
+standing telling story upper body movement,Unknown,Unknown,Unknown,Unknown
+standing typing web browsing supported,Standing and typing on a keyboard,Upright,Standing,Others
+down elevator standing,Unknown,Unknown,Unknown,Unknown
+outdoors telling story walking,Unknown,Unknown,Unknown,Unknown
+outdoors standing telling story walking,Unknown,Unknown,Unknown,Unknown
+outdoors standing telling story waiting walking,Unknown,Unknown,Unknown,Unknown
+outdoors standing telling story texting waiting,Unknown,Unknown,Unknown,Unknown
+outdoors standing telling story texting waiting walking,Unknown,Unknown,Unknown,Unknown
+mbta telling story,Unknown,Unknown,Unknown,Unknown
+standing,Self-selected free standing,Upright,Standing,Others
+biking walking,Unknown,Unknown,Unknown,Unknown
+outdoors walking,Unknown,Unknown,Unknown,Unknown
+outdoors standing walking,Unknown,Unknown,Unknown,Unknown
+standing vending machine,Unknown,Unknown,Unknown,Unknown
+standing vending machine walking,Unknown,Unknown,Unknown,Unknown
+texting walking,Unknown,Unknown,Unknown,Unknown
+frisbee texting walking,Unknown,Unknown,Unknown,Unknown
+outdoors phone talking walking,Unknown,Unknown,Unknown,Unknown
+outdoors phone talking telling story walking,Unknown,Unknown,Unknown,Unknown
+escalator telling story up,Unknown,Unknown,Unknown,Unknown
+bag stairs telling story walking,Unknown,Unknown,Unknown,Unknown
+bag stairs telling story up walking,Unknown,Unknown,Unknown,Unknown
+shelf reload shelf unload standing,Standing loading/unloading shelf,Upright,Standing,Others
+lying standing,Lying on the back,Lying,Lying,Sedentary
+lying telling story,Lying on the back,Lying,Lying,Sedentary
+reclining web browsing,Reclining and using phone,Sitting,Sitting,Sedentary
+biking reclining web browsing,Reclining and using phone,Sitting,Sitting,Sedentary
+300 kpm/min biking stationary,Stationary cycle ergometry,Sitting,Biking,Cycling
+300 kpm/min biking stationary treadmill walking,Stationary cycle ergometry,Sitting,Biking,Cycling
+1 mph treadmill walking supported,Level treadmill walking at 1 mph with arms on desk,Upright,Walking,Ambulation
+1 mph 2 mph arms on desk treadmill walking supported,Level treadmill walking at 1 mph with arms on desk,Upright,Walking,Ambulation
+1 mph 2 mph arms on desk treadmill walking,Level treadmill walking at 1 mph with arms on desk,Upright,Walking,Ambulation
+3 mph 3.5 mph treadmill walking,Level treadmill walking at 3-3.5 mph,Upright,Walking,Ambulation
+3 mph 5.5 mph 5%grade jog/running treadmill walking,Level treadmill walking at 3-3.5 mph,Upright,Walking,Ambulation
+3 mph 5.5 mph 5%grade treadmill walking,Level treadmill walking at 3-3.5 mph,Upright,Walking,Ambulation
+3 mph sweeping treadmill walking,Level treadmill walking at 3-3.5 mph,Upright,Walking,Ambulation
+sweeping,Standing and sweeping,Upright,Standing,Others
+laundry sweeping,Standing and folding towels,Upright,Standing,Others
+jumping jacks standing still,Unknown,Unknown,Unknown,Unknown
+sitting typing,Sitting and typing on a keyboard,Sitting,Sitting,Others
+arms on desk sitting typing web browsing,Sitting and typing on a keyboard,Sitting,Sitting,Others
+arms on desk sitting writing,Sitting and writing,Sitting,Sitting,Others
+arms on desk reclining sitting writing,Sitting and writing,Sitting,Sitting,Others
+reclining sitting telling story,Sitting and talking,Sitting,Sitting,Sedentary
+arms on desk standing typing web browsing,Standing and typing on a keyboard,Upright,Standing,Others
+arms on desk standing telling story writing,Standing and writing at a table,Upright,Standing,Others
+escalator standing telling story up,Unknown,Unknown,Unknown,Unknown
+down stairs up walking,Unknown,Unknown,Unknown,Unknown
+standing up walking,Unknown,Unknown,Unknown,Unknown
+stairs standing walking,Unknown,Unknown,Unknown,Unknown
+stairs standing up walking,Unknown,Unknown,Unknown,Unknown
+mbta standing stop light waiting,Unknown,Unknown,Unknown,Unknown
+standing stop light waiting,Unknown,Unknown,Unknown,Unknown
+dominant hand mbta standing telling story,Unknown,Unknown,Unknown,Unknown
+stairs telling story walking,Unknown,Unknown,Unknown,Unknown
+outdoors standing telling story texting,Unknown,Unknown,Unknown,Unknown
+elevator standing telling story up,Unknown,Unknown,Unknown,Unknown
+shelf unload standing upper body movement,Standing loading/unloading shelf,Upright,Standing,Others
+shelf reload standing upper body movement,Standing loading/unloading shelf,Upright,Standing,Others
+elevator texting,Unknown,Unknown,Unknown,Unknown
+city frisbee jog/running outdoors,Unknown,Unknown,Unknown,Unknown
+city frisbee other,Unknown,Unknown,Unknown,Unknown
+frisbee outdoors,Unknown,Unknown,Unknown,Unknown
+frisbee outdoors walking,Unknown,Unknown,Unknown,Unknown
+lower body movement stairs standing up upper body movement vending machine walking,Unknown,Unknown,Unknown,Unknown
+phone talking stairs up walking,Unknown,Unknown,Unknown,Unknown
+lying phone talking stairs up walking,Lying on the back,Lying,Lying,Sedentary
+reclining texting,Reclining and using phone,Sitting,Sitting,Sedentary
+biking reclining texting,Reclining and using phone,Sitting,Sitting,Sedentary
+300 kpm/min biking,Stationary cycle ergometry,Sitting,Biking,Cycling
+1 mph 300 kpm/min biking walking,Stationary cycle ergometry,Sitting,Biking,Cycling
+1 mph arms on desk telling story treadmill walking,Level treadmill walking at 1 mph with arms on desk,Upright,Walking,Ambulation
+3.5 mph bag treadmill walking,Level treadmill walking at 3-3.5 mph and carrying a bag,Upright,Walking,Ambulation
+3.5 mph bag dominant hand treadmill walking,Level treadmill walking at 3-3.5 mph and carrying a bag,Upright,Walking,Ambulation
+3 mph dominant hand phone talking treadmill walking,Level treadmill walking at 3-3.5 mph while holding a phone with dominant arm to the ear and talking,Upright,Walking,Ambulation
+telling story treadmill walking,Level treadmill walking at 3-3.5 mph while talking,Upright,Walking,Ambulation
+still telling story treadmill walking,Level treadmill walking at 3-3.5 mph while talking,Upright,Walking,Ambulation
+laundry standing upper body movement,Standing and folding towels,Upright,Standing,Others
+standing sweeping telling story upper body movement,Standing and sweeping,Upright,Standing,Others
+standing still sweeping telling story upper body movement,Standing and sweeping,Upright,Standing,Others
+arms on desk sitting,Unknown,Unknown,Unknown,Unknown
+sitting web browsing,Sitting and typing on a keyboard,Sitting,Sitting,Others
+reclining standing telling story,Reclining and talking,Sitting,Sitting,Sedentary
+arms on desk standing telling story web browsing,Standing and typing on a keyboard,Upright,Standing,Others
+arms on desk standing writing,Standing and writing at a table,Upright,Standing,Others
+arms on desk standing walking writing,Standing and writing at a table,Upright,Standing,Others
+stairs walking,Unknown,Unknown,Unknown,Unknown
+down stairs walking,Unknown,Unknown,Unknown,Unknown
+outdoors stairs walking,Unknown,Unknown,Unknown,Unknown
+outdoors standing telling story waiting,Unknown,Unknown,Unknown,Unknown
+mbta standing,Unknown,Unknown,Unknown,Unknown
+mbta standing telling story,Unknown,Unknown,Unknown,Unknown
+mbta outdoors stop light walking,Unknown,Unknown,Unknown,Unknown
+standing stop light telling story,Unknown,Unknown,Unknown,Unknown
+vending machine walking,Unknown,Unknown,Unknown,Unknown
+upper body movement vending machine walking,Unknown,Unknown,Unknown,Unknown
+stairs up walking,Unknown,Unknown,Unknown,Unknown
+stairs telling story up walking,Unknown,Unknown,Unknown,Unknown
+outdoors,Unknown,Unknown,Unknown,Unknown
+escalator standing up,Unknown,Unknown,Unknown,Unknown
+escalator standing up walking,Unknown,Unknown,Unknown,Unknown
+down escalator standing,Unknown,Unknown,Unknown,Unknown
+phone talking telling story walking,Unknown,Unknown,Unknown,Unknown
+mbta telling story walking,Unknown,Unknown,Unknown,Unknown
+escalator mbta standing up,Unknown,Unknown,Unknown,Unknown
+down mbta stairs walking,Unknown,Unknown,Unknown,Unknown
+carrying drinking outdoors walking,Unknown,Unknown,Unknown,Unknown
+bag outdoors walking,Unknown,Unknown,Unknown,Unknown
+bag escalator telling story walking,Unknown,Unknown,Unknown,Unknown
+shelf unload walking,Standing loading/unloading shelf,Upright,Standing,Others
+shelf reload walking,Standing loading/unloading shelf,Upright,Standing,Others
+sitting sweeping,Standing and sweeping,Upright,Standing,Others
+sitting sweeping telling story,Sitting and talking,Sitting,Sitting,Sedentary
+sitting telling story,Sitting and talking,Sitting,Sitting,Sedentary
+300 kpm/min biking treadmill walking,Stationary cycle ergometry,Sitting,Biking,Cycling
+phone talking treadmill walking supported,Level treadmill walking at 3-3.5 mph while holding a phone with dominant arm to the ear and talking,Upright,Walking,Ambulation
+carrying drinking treadmill walking supported,Level treadmill walking at 3-3.5 mph and carrying a drink,Upright,Walking,Ambulation
+telling story treadmill walking supported,Level treadmill walking at 3-3.5 mph while talking,Upright,Walking,Ambulation
+standing sweeping telling story,Standing and sweeping,Upright,Standing,Others

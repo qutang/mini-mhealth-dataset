@@ -1,0 +1,25 @@
+ACTIVITY,POSTURE,ACTIVITY_GROUP,SEDENTARY_AMBULATION_CYCLING
+Lying on the back,Lying,Lying,Sedentary
+Reclining and talking,Sitting,Sitting,Sedentary
+Reclining and using phone,Sitting,Sitting,Sedentary
+Sitting and talking,Sitting,Sitting,Sedentary
+Sitting and writing,Sitting,Sitting,Others
+Sitting still,Sitting,Sitting,Sedentary
+Sitting and typing on a keyboard,Sitting,Sitting,Others
+Stationary cycle ergometry,Sitting,Biking,Cycling
+Standing and folding towels,Upright,Standing,Others
+Standing and typing on a keyboard,Upright,Standing,Others
+Standing loading/unloading shelf,Upright,Standing,Others
+Standing and sweeping,Upright,Standing,Others
+Self-selected free standing,Upright,Standing,Others
+Standing and writing at a table,Upright,Standing,Others
+Treadmill running at 5.5 mph & 5% grade,Upright,Running,Ambulation
+Level treadmill walking at 1 mph with arms on desk,Upright,Walking,Ambulation
+Level treadmill walking at 2 mph with arms on desk,Upright,Walking,Ambulation
+Level treadmill walking at 3-3.5 mph,Upright,Walking,Ambulation
+Level treadmill walking at 3-3.5 mph while holding a phone with dominant arm to the ear and talking,Upright,Walking,Ambulation
+Level treadmill walking at 3-3.5 mph and carrying a bag,Upright,Walking,Ambulation
+Level treadmill walking at 3-3.5 mph and carrying a drink,Upright,Walking,Ambulation
+Level treadmill walking at 3-3.5 mph while talking,Upright,Walking,Ambulation
+Unknown,Unknown,Unknown,Unknown
+Transition,Transition,Transition,Transition
